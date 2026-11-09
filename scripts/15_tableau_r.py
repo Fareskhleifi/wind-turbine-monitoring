@@ -13,6 +13,7 @@ Présentation : paquet tdb/ (donnees, theme, graphiques, composants) ; calculs :
 """
 import time
 
+import altair as alt
 import streamlit as st
 
 import commun
@@ -21,8 +22,8 @@ from tdb import donnees as D
 from tdb import graphiques as G
 from tdb import theme as T
 
-st.set_page_config(page_title="Wind Turbine Monitoring — TD3", layout="wide", initial_sidebar_state="expanded")
-st.markdown(T.CSS, unsafe_allow_html=True)
+st.set_page_config(page_title="Wind Turbine Monitoring", page_icon="🌬️", layout="wide",
+                   initial_sidebar_state="expanded")
 
 VUES = ["Overview", "Wind Farm", "Real-time Monitoring", "Alerts & Anomalies", "Data Quality"]
 qp = st.query_params
@@ -37,13 +38,19 @@ def html(contenu):
     st.markdown(contenu, unsafe_allow_html=True)
 
 
+# Données écrites dans la spec Vega-Lite elle-même. st.altair_chart nomme chaque jeu de données par le hash de son
+# contenu : à chaque rafraîchissement les noms changent et la mise à jour en place du navigateur échouait
+# (« Error: Unrecognized data set »). Sans jeu nommé, une nouvelle donnée = une nouvelle spec = vue recréée.
+alt.data_transformers.enable("default", max_rows=None)
+alt.data_transformers.consolidate_datasets = False
+
+
 def afficher(graphique, message="Pas encore de mesure exploitable pour ce graphique."):
-    """Affiche un graphique Altair. La clé change à chaque rafraîchissement : le graphique est recréé au lieu d'être
-    mis à jour en place, ce qui évite l'erreur Vega « Unrecognized data set » des graphiques à plusieurs couches."""
+    """Affiche un graphique Altair (ou un message s'il n'y a rien à tracer)."""
     if graphique is None:
         st.info(message)
     else:
-        st.altair_chart(T.configurer(graphique), use_container_width=True, theme=None, key=f"g{time.time_ns()}")
+        st.vega_lite_chart(T.configurer(graphique, mode).to_dict(), use_container_width=True, theme=None)
 
 
 def liste_param(nom, defaut, valides):
@@ -60,7 +67,21 @@ def entier_param(nom, defaut, mini, maxi):
 
 
 # --------------------------------------------------------------------------- contrôles (barre latérale)
+def garder_mode():
+    """Le mode reste choisi si on reclique dessus, et il est recopié dans l'URL (?mode=jour)."""
+    if st.session_state.mode is None:
+        st.session_state.mode = st.session_state.get("mode_prec", "nuit")
+    st.session_state.mode_prec = st.session_state.mode
+    st.query_params["mode"] = st.session_state.mode
+
+
 with st.sidebar:
+    html(C.marque())
+    mode = st.segmented_control(
+        "Affichage", list(T.MODES), default=qp.get("mode") if qp.get("mode") in T.MODES else "nuit", key="mode",
+        format_func=lambda m: (":material/dark_mode: " if m == "nuit" else ":material/light_mode: ") + T.MODES[m],
+        on_change=garder_mode) or "nuit"
+    html(T.css(mode))
     st.markdown("### Contrôles")
     defaut = qp.get("eolienne", "E6")
     principale = st.selectbox("Éolienne sélectionnée", D.TOUTES,
@@ -104,23 +125,38 @@ def vue_overview(s, resumes, phi):
     reels = [resumes[e] for e in D.REELLES]
     n = {etat: sum(1 for r in reels if r["etat"] == etat) for etat in T.COULEUR_ETAT}
     en_service = sum(1 for r in reels if r["etat"] != "AUCUNE_DONNEE" and not C.perimee(r))
+    p = D.production(s["brut"], D.maintenant_utc())
+    html(C.section("Production du parc"))
+    production = [("Puissance instantanée", C.nombre(p["puissance_kw"], "{:.1f}"), "kW",
+                   f"somme des {p['actives']} éoliennes actives", T.TURQUOISE),
+                  ("Vent moyen", C.nombre(p["vent_ms"], "{:.1f}"), "m/s",
+                   "moyenne des anémomètres" if p["vent_ms"] is None else
+                   f"soit {C.nombre(3.6 * p['vent_ms'], '{:.0f}')} km/h", T.BLEU),
+                  ("En production", f"{p['en_production']} / {len(reels)}", "",
+                   "éoliennes avec une puissance > 0", T.VERT),
+                  ("Énergie produite", C.nombre(p["energie_kwh"], "{:.2f}"), "kWh",
+                   f"sur les {C.nombre(p['minutes'], '{:.0f}')} dernières minutes", "#B39DFB")]
+    for col, (lib, val, unite, sous, coul) in zip(st.columns(4), production):
+        with col:
+            html(C.kpi(lib, val, sous, coul, unite))
+    html(C.section("Santé des éoliennes"))
     cartes = [("Éoliennes actives", f"{en_service} / {len(reels)}", f"mesure reçue il y a moins de {C.PERIME_S} s",
                T.TURQUOISE),
               ("État OK", n["OK"], "règles des parties 13 et 16", T.VERT),
               ("Sous-production", n["SOUS_PRODUCTION"], "médiane de r < 0,9", T.ROUGE),
               ("Défaut capteur", n["CAPTEUR"], "au moins un r > 2 dans la fenêtre", T.ORANGE),
-              ("Mesures traitées", C.milliers(s["messages"].get(commun.TOPIC_PI, 0)), "messages Π lus dans Kafka", T.BLEU),
               ("Mesures suspectes", C.milliers(sum(r["suspects_historique"] for r in reels)),
                f"r > 2 dans l'historique en mémoire · {sum(r['suspects'] for r in reels)} dans les fenêtres", T.ORANGE)]
-    for col, (lib, val, sous, coul) in zip(st.columns(6), cartes):
+    for col, (lib, val, sous, coul) in zip(st.columns(5), cartes):
         with col:
             html(C.kpi(lib, val, sous, coul))
     st.caption(f"Sur-production : {n['SUR_PRODUCTION']} · Hors abaque : {n['HORS_ABAQUE']} · "
-               f"Aucune donnée : {n['AUCUNE_DONNEE']} (éoliennes réelles E1 à E15 ; EX1 à EX5 dans « Data Quality »)")
+               f"Aucune donnée : {n['AUCUNE_DONNEE']} · {C.milliers(s['messages'].get(commun.TOPIC_PI, 0))} mesures Π "
+               f"traitées (éoliennes réelles E1 à E15 ; EX1 à EX5 dans « Data Quality »)")
     gauche, droite = st.columns([1, 2.3], gap="medium")
     brut = s["brut"].get(principale, [])
     with gauche:
-        html(C.carte_eolienne(resumes[principale], brut[-1] if brut else None, principale in D.SIMULEES))
+        html(C.carte_eolienne(resumes[principale], brut[-1] if brut else None, principale in D.SIMULEES, mode))
     with droite:
         html(C.section(f"Performance en temps réel — {principale} · écart à l'abaque Φ") + C.legende_r(ymax))
         afficher(G.graphique_r(D.serie_r(s["pi"].get(principale, []), phi, minutes), ymax, hauteur=300))
@@ -272,6 +308,8 @@ def page():
     resumes = {e: D.resume(e, s["pi"].get(e, []), s["recus"].get(e, 0), phi, maintenant) for e in D.TOUTES}
     {"Overview": vue_overview, "Wind Farm": vue_parc, "Real-time Monitoring": vue_temps_reel,
      "Alerts & Anomalies": vue_alertes, "Data Quality": vue_qualite}[vue](s, resumes, phi)
+    html(C.pied(f"Source : Kafka {commun.KAFKA_BOOTSTRAP} — {commun.TOPIC_MESURES}, {commun.TOPIC_PI}, "
+                f"{commun.TOPIC_ALERTES}"))
 
 
 page()

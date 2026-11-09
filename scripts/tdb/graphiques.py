@@ -46,7 +46,7 @@ def graphique_r(df, ymax, hauteur=330):
     infos = [alt.Tooltip("heure:N", title="Heure UTC"), alt.Tooltip("r:Q", title="r", format=".3f"),
              alt.Tooltip("mediane_60:Q", title="Médiane 60", format=".3f")]
     zoom = alt.selection_interval(bind="scales", encodings=["x"])
-    points = alt.Chart(d).mark_circle(size=13, opacity=0.5, color=theme.POINTS).encode(
+    points = alt.Chart(d).mark_circle(size=13, opacity=0.5).encode(      # couleur : theme.configurer (mode)
         x=_x(d), y=y("r_aff"), tooltip=infos).add_params(zoom)
     mediane = alt.Chart(d).mark_line(color=theme.TURQUOISE, strokeWidth=2.6).encode(
         x=_x(d), y=y("mediane_60"), detail="segment:N", tooltip=infos)
@@ -100,7 +100,10 @@ def graphique_medianes(resumes, hauteur=260):
                         legend=alt.Legend(columns=3, labelFontSize=10, symbolSize=60)),
         tooltip=[alt.Tooltip("eolienne:N", title="Éolienne"), alt.Tooltip("libelle:N", title="État"),
                  alt.Tooltip("mediane:Q", title="Médiane r", format=".3f")])
-    texte = barres.mark_text(dy=-8, color=theme.TEXTE, fontSize=10).encode(text=alt.Text("mediane:Q", format=".2f"))
+    # étiquettes sans encodage de couleur : leur couleur vient de theme.configurer (lisible de jour comme de nuit)
+    texte = alt.Chart(d).mark_text(dy=-8, fontSize=10).encode(
+        x=alt.X("eolienne:N", sort=ordre), y=alt.Y("mediane:Q", scale=echelle),
+        text=alt.Text("mediane:Q", format=".2f"))
     marge = pd.DataFrame({"y": [1 - commun.MARGE], "y2": [1 + commun.MARGE], "u": [1.0]})
     bande = alt.Chart(marge).mark_rect(color=theme.VERT, opacity=0.13).encode(y=alt.Y("y:Q", scale=echelle), y2="y2:Q")
     unite = alt.Chart(marge).mark_rule(color=theme.VERT, strokeDash=[5, 4]).encode(y=alt.Y("u:Q", scale=echelle))

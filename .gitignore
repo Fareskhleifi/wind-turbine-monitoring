@@ -9,7 +9,6 @@ venv/
 
 # états d'exécution et artefacts d'outils
 checkpoints/
-.playwright-mcp/
 node_modules/
 results/logs/session_dashboard_*.log
 

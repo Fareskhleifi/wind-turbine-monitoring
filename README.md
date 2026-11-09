@@ -24,7 +24,8 @@ Projet réalisé dans le cadre du TD3 « Une ferme éolienne connectée » — M
 - **Qualité des données** : simulation de mesures perdues, de champs absents et de silences (EX1..EX5) et
   indicateurs de fraîcheur / complétude.
 - **Tableau de bord** : 5 vues (Overview, Wind Farm, Real-time Monitoring, Alerts & Anomalies, Data Quality),
-  rafraîchies toutes les 5 s, entièrement alimentées par Kafka.
+  rafraîchies toutes les 5 s, entièrement alimentées par Kafka ; mode nuit / mode jour ; indicateurs
+  d'exploitation du parc (puissance instantanée, vent moyen, éoliennes en production, énergie produite).
 
 ## Architecture
 

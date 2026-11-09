@@ -9,9 +9,9 @@ import re
 import commun
 
 from . import theme
+from .donnees import PERIME_S  # noqa: F401  (au-delà, la dernière mesure est signalée comme ancienne)
 
 BETZ = 16 / 27
-PERIME_S = 60       # au-delà, la dernière mesure est signalée comme ancienne (cadence attendue : 1 mesure/s)
 
 
 def _e(x):
@@ -63,48 +63,93 @@ def pastille(texte, couleur):
             f'{_e(texte)}</div>')
 
 
+def _logo(taille):
+    pales = "".join(f'<path transform="rotate({a} 100 92)" d="M100 92 C96 70 97 45 100 22 C103 45 104 70 100 92Z"/>'
+                    for a in (0, 120, 240))
+    return (f'<svg width="{taille}" height="{taille}" viewBox="0 0 200 200"><circle cx="100" cy="100" r="96" '
+            f'style="fill:var(--fond2)" stroke="#21B6A8" stroke-width="6"/><g style="fill:var(--texte)">{pales}</g>'
+            '<circle cx="100" cy="92" r="8" fill="#21B6A8"/>'
+            '<path d="M97 98 L103 98 L106 178 L94 178Z" style="fill:var(--texte2)"/></svg>')
+
+
 def entete(connexion, flux, actualisation):
     """connexion / flux : (texte, couleur) calculés à partir de l'état réel des consommateurs Kafka."""
-    icone = ('<svg width="46" height="46" viewBox="0 0 200 200"><circle cx="100" cy="100" r="96" fill="#062333" '
-             'stroke="#21B6A8" stroke-width="6"/><g fill="#F4F7FA">'
-             + "".join(f'<path transform="rotate({a} 100 92)" d="M100 92 C96 70 97 45 100 22 C103 45 104 70 100 92Z"/>'
-                       for a in (0, 120, 240))
-             + '</g><circle cx="100" cy="92" r="8" fill="#21B6A8"/><path d="M97 98 L103 98 L106 178 L94 178Z" fill="#A9BBC8"/></svg>')
-    return (f'<div class="tdb-entete">{icone}<div><div class="tdb-titre">WIND TURBINE MONITORING</div>'
-            f'<div class="tdb-soustitre">Real-time monitoring &amp; predictive maintenance — ferme « grand-pré », '
-            f'15 éoliennes · TD3 jumeau numérique</div></div><div class="tdb-statuts">'
+    return (f'<div class="tdb-entete">{_logo(46)}<div><div class="tdb-titre">WIND TURBINE MONITORING</div>'
+            f'<div class="tdb-soustitre">Supervision temps réel &amp; maintenance prédictive — parc « grand-pré », '
+            f'15 éoliennes</div></div><div class="tdb-statuts">'
             f'{pastille(*connexion)}{pastille(*flux)}{pastille(actualisation, theme.TURQUOISE)}</div></div>')
 
 
-def kpi(libelle, valeur, sous_titre, couleur):
+def marque():
+    """Bloc d'identité en tête de la barre latérale."""
+    return (f'<div class="tdb-marque">{_logo(34)}<div>WTM SCADA<small>Parc éolien « grand-pré »</small></div></div>')
+
+
+def pied(source):
+    return (f'<div class="tdb-pied"><span>{_e(source)}</span>'
+            '<span>Heures capteur en UTC · rafraîchissement automatique toutes les 5 s</span></div>')
+
+
+def kpi(libelle, valeur, sous_titre, couleur, unite=""):
+    unite = f"<small>{_e(unite)}</small>" if unite else ""
     return (f'<div class="tdb-kpi" style="border-left-color:{couleur}"><div class="lib">{lib(libelle)}</div>'
-            f'<div class="val">{_e(valeur)}</div><div class="sous">{_e(sous_titre)}</div></div>')
+            f'<div class="val">{_e(valeur)}{unite}</div><div class="sous">{_e(sous_titre)}</div></div>')
 
 
-def illustration_eolienne(omega):
-    """Éolienne vectorielle ; le rotor tourne si la vitesse de rotation mesurée ω est non nulle.
+# Décor de l'illustration selon le mode : ciel, astre, collines, mât, pales
+_DECOR = {
+    "jour": {"ciel": ("#6FB7E9", "#DDF0FB"), "astre": "#FFD36B", "collines": ("#8DBF7A", "#5E9A57"),
+             "mat": ("#C3CED6", "#FFFFFF"), "pale": ("#D5DEE5", "#FFFFFF")},
+    "nuit": {"ciel": ("#06142A", "#163C61"), "astre": "#F3F0DC", "collines": ("#123430", "#0B2423"),
+             "mat": ("#536677", "#A8B8C5"), "pale": ("#8EA1B0", "#D3DEE6")},
+}
+_ETOILES = ((18, 22, 1.1), (42, 48, .8), (64, 16, 1), (126, 20, .9), (182, 70, .8), (24, 92, .7), (150, 96, .9),
+            (88, 34, .7), (176, 18, 1), (56, 78, .8))
+
+
+def illustration_eolienne(omega, mode="nuit"):
+    """Éolienne dans son paysage (jour ou nuit) ; le rotor tourne si la vitesse de rotation mesurée ω est non nulle.
 
     La vitesse d'animation est indicative (période quantifiée pour rester lisible), la valeur réelle est affichée à côté.
+    De nuit, le feu de balisage rouge du haut de la nacelle clignote, comme sur une vraie éolienne.
     """
+    d = _DECOR[mode]
     if omega and omega > 0:
         periode = max(1, min(8, round(40 / omega)))
         rotor = f'<g class="rotor" style="animation-duration:{periode}s">'
     else:
         rotor = '<g class="rotor arret">'
-    pales = "".join(f'<path transform="rotate({a} 100 92)" d="M100 92 C95 66 96 36 100 8 C104 36 105 66 100 92Z" '
-                    f'fill="url(#pale)"/>' for a in (0, 120, 240))
+    pales = "".join(f'<path transform="rotate({a} 100 92)" d="M100 92 C96 70 97 40 100 10 C102 40 104 70 100 92Z" '
+                    f'fill="url(#tdb-pale)"/>' for a in (15, 135, 255))
+    if mode == "nuit":
+        ambiance = ("".join(f'<circle cx="{x}" cy="{y}" r="{r}" fill="#FFFFFF" opacity=".8"/>' for x, y, r in _ETOILES)
+                    + f'<circle cx="160" cy="40" r="20" fill="{d["astre"]}" opacity=".12"/>'
+                    f'<circle cx="160" cy="40" r="11" fill="{d["astre"]}"/>')
+        feu = '<circle class="tdb-feu" cx="112" cy="84" r="2.2" fill="#FF3B30"/>'
+    else:
+        ambiance = (f'<circle cx="160" cy="40" r="24" fill="{d["astre"]}" opacity=".25"/>'
+                    f'<circle cx="160" cy="40" r="13" fill="{d["astre"]}"/>'
+                    '<g fill="#FFFFFF" opacity=".85"><ellipse cx="44" cy="44" rx="20" ry="7"/>'
+                    '<ellipse cx="58" cy="39" rx="13" ry="8"/><ellipse cx="128" cy="74" rx="16" ry="5"/></g>')
+        feu = ""
     return ('<svg class="tdb-eol" viewBox="0 0 200 260" xmlns="http://www.w3.org/2000/svg"><defs>'
-            '<linearGradient id="mat" x1="0" x2="1"><stop offset="0" stop-color="#8FA6B6"/><stop offset="1" stop-color="#E8EEF3"/></linearGradient>'
-            '<linearGradient id="pale" x1="0" x2="1"><stop offset="0" stop-color="#CFDCE5"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>'
-            '<radialGradient id="sol" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#21B6A8" stop-opacity=".45"/>'
-            '<stop offset="1" stop-color="#21B6A8" stop-opacity="0"/></radialGradient></defs>'
-            '<ellipse cx="100" cy="250" rx="70" ry="8" fill="url(#sol)"/>'
-            '<path d="M96 96 L104 96 L110 250 L90 250Z" fill="url(#mat)"/>'
-            '<rect x="88" y="84" width="34" height="15" rx="6" fill="#DDE6EC"/>'
-            f'{rotor}{pales}<circle cx="100" cy="92" r="7" fill="#21B6A8" stroke="#E8EEF3" stroke-width="2"/></g></svg>')
+            f'<linearGradient id="tdb-ciel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{d["ciel"][0]}"/>'
+            f'<stop offset="1" stop-color="{d["ciel"][1]}"/></linearGradient>'
+            f'<linearGradient id="tdb-mat" x1="0" x2="1"><stop offset="0" stop-color="{d["mat"][0]}"/>'
+            f'<stop offset="1" stop-color="{d["mat"][1]}"/></linearGradient>'
+            f'<linearGradient id="tdb-pale" x1="0" x2="1"><stop offset="0" stop-color="{d["pale"][0]}"/>'
+            f'<stop offset="1" stop-color="{d["pale"][1]}"/></linearGradient></defs>'
+            '<rect width="200" height="260" fill="url(#tdb-ciel)"/>'
+            f'{ambiance}'
+            f'<path d="M0 214 C40 196 80 200 120 210 C150 218 175 206 200 200 L200 260 L0 260Z" fill="{d["collines"][0]}"/>'
+            '<path d="M97 96 L103 96 L107 236 L93 236Z" fill="url(#tdb-mat)"/>'
+            f'<path d="M0 236 C50 222 110 226 200 232 L200 260 L0 260Z" fill="{d["collines"][1]}"/>'
+            '<path d="M96 86 L120 85 Q126 89 120 95 L96 97Z" fill="url(#tdb-mat)"/>'
+            f'{feu}{rotor}{pales}<circle cx="100" cy="92" r="6.5" fill="{d["mat"][1]}" stroke="{d["mat"][0]}" '
+            'stroke-width="1.5"/><circle cx="100" cy="92" r="2.2" fill="#21B6A8"/></g></svg>')
 
 
-def carte_eolienne(resume, derniere_mesure, simulee):
+def carte_eolienne(resume, derniere_mesure, simulee, mode="nuit"):
     """Grande carte de l'éolienne choisie : état (parties 13/16), r, compteurs et grandeurs techniques mesurées."""
     m = derniere_mesure or {}
     omega = m.get("rotation_rads")
@@ -123,7 +168,7 @@ def carte_eolienne(resume, derniere_mesure, simulee):
                     f'{duree(resume["age_s"])} : état figé à la dernière mesure reçue.</div>')
     return (f'<div class="tdb-carte"><div style="display:flex;justify-content:space-between;align-items:center">'
             f'<div class="tdb-nom">{_e(resume["eolienne"])}</div>{badge(resume["etat"])}</div>{mention}'
-            f'{illustration_eolienne(omega)}<div class="tdb-mini" style="text-align:center">'
+            f'{illustration_eolienne(omega, mode)}<div class="tdb-mini" style="text-align:center;margin-top:8px">'
             f'{_e(theme.REGLE_ETAT[resume["etat"]])}</div><div class="tdb-grille">{grille}</div></div>')
 
 
@@ -145,12 +190,13 @@ def jauge_cp(cp):
     else:
         commentaire = f"{nombre(100 * ratio, '{:.0f} %')} de la limite de Betz."
     return (f'<div class="tdb-carte"><h4>Coefficient de puissance</h4><svg viewBox="0 0 200 135" width="100%">'
-            f'<path d="M20 100 A80 80 0 0 1 180 100" stroke="#0E4560" stroke-width="14" fill="none" stroke-linecap="round"/>'
-            f'{arc}<text x="100" y="86" text-anchor="middle" font-size="26" font-weight="800" fill="{theme.TEXTE}">'
+            f'<path d="M20 100 A80 80 0 0 1 180 100" style="stroke:var(--bord)" stroke-width="14" fill="none" '
+            f'stroke-linecap="round"/>'
+            f'{arc}<text x="100" y="86" text-anchor="middle" font-size="26" font-weight="800" style="fill:{theme.TEXTE}">'
             f'{nombre(cp, "{:.3f}")}</text>'
-            f'<text x="20" y="120" text-anchor="middle" font-size="9" fill="{theme.TEXTE2}">0</text>'
-            f'<text x="172" y="120" text-anchor="middle" font-size="9" fill="{theme.TEXTE2}">Betz 0,593</text>'
-            f'<text x="100" y="133" text-anchor="middle" font-size="9" fill="{theme.TEXTE2}">C_p médian · 60 mesures en '
+            f'<text x="20" y="120" text-anchor="middle" font-size="9" style="fill:{theme.TEXTE2}">0</text>'
+            f'<text x="172" y="120" text-anchor="middle" font-size="9" style="fill:{theme.TEXTE2}">Betz 0,593</text>'
+            f'<text x="100" y="133" text-anchor="middle" font-size="9" style="fill:{theme.TEXTE2}">C_p médian · 60 mesures en '
             f'production</text></svg><div class="tdb-mini">{commentaire} C_p = (8/π)·Π1. La puissance nominale '
             f'n\'est pas publiée par les capteurs : la jauge utilise la seule limite physique disponible.</div></div>')
 

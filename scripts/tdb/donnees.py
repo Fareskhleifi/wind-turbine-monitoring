@@ -20,6 +20,8 @@ import commun
 HISTORIQUE_PI = 3600        # 1 h à 1 mesure/s
 HISTORIQUE_BRUT = 900       # 15 min de grandeurs physiques
 FENETRE = 60                # fenêtre des parties 13 et 16
+PERIME_S = 60               # dernière mesure plus ancienne : éolienne signalée comme silencieuse (cadence : 1 mesure/s)
+PAS_MAX_S = 5               # intégration de l'énergie : un trou plus long n'est pas compté comme de la production
 REELLES = [f"E{i}" for i in range(1, 16)]
 SIMULEES = [f"EX{i}" for i in range(1, 6)]
 TOUTES = REELLES + SIMULEES
@@ -173,6 +175,35 @@ def qualite(eolienne, points, maintenant):
     return {"eolienne": eolienne, "age_s": (maintenant - derniere).total_seconds(), "n_5min": n,
             "pi1_absent": sum(1 for p in recents if commun.manquant(p[2])) / n,
             "pi2_absent": sum(1 for p in recents if commun.manquant(p[3])) / n, "sauts": sauts}
+
+
+def production(brut, maintenant, eoliennes=REELLES):
+    """Indicateurs d'exploitation du parc à partir des mesures brutes (grandeurs publiées par les capteurs).
+
+    puissance_kw : somme des dernières puissances des éoliennes actives (mesure de moins de PERIME_S)
+    vent_ms      : vent moyen de ces éoliennes ; en_production : nombre d'entre elles avec P > 0
+    energie_kwh  : énergie produite sur la fenêtre gardée en mémoire (≈ 15 min), Σ P·Δt avec Δt ≤ PAS_MAX_S
+    """
+    total_w, vents, en_production, actives, energie_j, minutes = 0.0, [], 0, 0, 0.0, 0.0
+    for e in eoliennes:
+        df = mesures_brutes(brut.get(e, []), minutes=24 * 60)
+        if df.empty or "puissance_w" not in df:
+            continue
+        dt = df["t"].diff().dt.total_seconds().shift(-1).clip(upper=PAS_MAX_S).fillna(1.0)
+        energie_j += float((df["puissance_w"].fillna(0) * dt).sum())
+        minutes = max(minutes, (df["t"].iloc[-1] - df["t"].iloc[0]).total_seconds() / 60)
+        dernier = df.iloc[-1]
+        if (maintenant - dernier["t"]).total_seconds() > PERIME_S:
+            continue
+        actives += 1
+        if pd.notna(dernier["puissance_w"]):
+            total_w += dernier["puissance_w"]
+            en_production += dernier["puissance_w"] > 0
+        if pd.notna(dernier.get("vent_ms")):
+            vents.append(dernier["vent_ms"])
+    return {"puissance_kw": total_w / 1000, "vent_ms": statistics.fmean(vents) if vents else None,
+            "en_production": int(en_production), "actives": actives, "energie_kwh": energie_j / 3.6e6,
+            "minutes": minutes}
 
 
 def maintenant_utc():

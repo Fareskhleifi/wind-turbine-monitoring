@@ -97,7 +97,7 @@ def test_tableau_de_bord_fidele_aux_calculs():
     import statistics
 
     import pandas as pd
-    from tdb import composants, donnees
+    from tdb import composants, donnees, theme
     phi = {k: 0.4 for k in range(10, 20)}
     # 120 mesures horodatées à 1 s d'intervalle ; seq 1004 et 1005 absentes (2 mesures perdues)
     seqs = [s for s in range(1000, 1122) if s not in (1004, 1005)]
@@ -122,6 +122,16 @@ def test_tableau_de_bord_fidele_aux_calculs():
     assert composants.lib("Médiane de r (60)") == 'Médiane de <span class="tdb-math">r</span> (60)'
     from tdb import graphiques
     assert graphiques.graphique_r(donnees.serie_r([], phi, 30), 2.5) is None   # message au lieu d'un cadre vide
+    # production du parc : 2 éoliennes à 1 kW pendant 10 s (1 mesure/s), la 3e silencieuse depuis 1 h
+    brut = {e: [{"horodatage": f"2026-11-09T10:00:{i:02d}.000+00:00", "puissance_w": 1000.0, "vent_ms": v}
+                for i in range(10)] for e, v in (("E1", 6.0), ("E2", 8.0))}
+    brut["E3"] = [{"horodatage": "2026-11-09T09:00:00.000+00:00", "puissance_w": 5000.0, "vent_ms": 12.0}]
+    p = donnees.production(brut, pd.Timestamp("2026-11-09T10:00:10Z"))
+    assert (p["actives"], p["en_production"], p["puissance_kw"], p["vent_ms"]) == (2, 2, 2.0, 7.0)
+    assert abs(p["energie_kwh"] - (2 * 1000 * 10 + 5000) / 3.6e6) < 1e-12        # Δt du point isolé : 1 s
+    for mode in ("nuit", "jour"):
+        assert "var(--texte)" in theme.css(mode) and "tdb-feu" in composants.illustration_eolienne(10, "nuit")
+    assert "tdb-feu" not in composants.illustration_eolienne(10, "jour")
 
 
 if __name__ == "__main__":
