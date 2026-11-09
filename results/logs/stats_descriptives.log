@@ -1,0 +1,25 @@
+mesures enrichies E1-E15 : 35562 ; horodatages 08:29:27 -> 09:36:00 UTC
+éol. zone     D(m)  n     V moy  V max  rho min  rho max  arrêts
+E1   vallee      3  2372   4.51  14.09  1.1925  1.2331  29.4%
+E2   vallee      5  2372   4.51  14.97  1.1946  1.2306  29.9%
+E3   vallee      5  2371   4.52  14.34  1.1942  1.2304  30.0%
+E4   vallee      8  2371   4.51  13.59  1.1930  1.2324  30.0%
+E5   champs      3  2371   6.46  18.44  1.1869  1.2315  14.7%
+E6   champs      5  2371   6.46  17.90  1.1853  1.2292  14.3%
+E7   champs      8  2371   6.46  18.89  1.1875  1.2310  14.3%
+E8   champs     12  2371   6.46  18.68  1.1835  1.2258  14.5%
+E9   colline     5  2371   7.44  25.02  1.1383  1.1741  11.5%
+E10  colline     8  2371   7.45  22.23  1.1361  1.1767  11.3%
+E11  colline     8  2370   7.46  24.42  1.1362  1.1771  11.5%
+E12  colline    12  2370   7.44  23.53  1.1383  1.1805  11.4%
+E13  plateau     8  2370  11.14  30.89  1.0524  1.0909   8.0%
+E14  plateau    12  2370  11.13  30.16  1.0516  1.0892   8.4%
+E15  plateau    20  2370  11.17  35.46  1.0504  1.0873   8.4%
+vent max quand rotor à l'arrêt : 35.46 m/s ; vent min rotor tournant : 3.00 m/s
+V = 6 ± 0,25 m/s : médiane P(E1) = 361 W, P(E2) = 874 W, rapport E2/E1 = 2.42
+V = 8 ± 0,25 m/s : médiane P(E1) = 888 W, P(E2) = 1917 W, rapport E2/E1 = 2.16
+V = 10 ± 0,25 m/s : médiane P(E1) = 1643 W, P(E2) = 3896 W, rapport E2/E1 = 2.37
+Π2 rotor tournant : 6.00 -> 22.00 ; Π1 max = 0.7245 (Betz : 0.2327)
+V max rotor tournant: 25.00
+arrêts V<3: 5818  V>25: 95  3<=V<=25: 0
+plateau 09:04-09:05: V moy 3.7, arrêts 136/228

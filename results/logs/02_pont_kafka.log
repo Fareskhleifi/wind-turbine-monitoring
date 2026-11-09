@@ -1,0 +1,6 @@
+%4|1794212723.299|GETPID|rdkafka#producer-1| [thrd:main]: Failed to acquire idempotence PID from broker kafka:9092/1: Broker: CoMQTT connecté : Success
+ordinator load in progress: retrying
+1000 mesures envoyées (0 invalides)
+2000 mesures envoyées (0 invalides)
+MQTT déconnecté : Normal disconnection (reconnexion automatique)
+Arrêt : 2702 mesures transmises, 0 non accusées

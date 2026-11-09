@@ -1,0 +1,9 @@
+('EX2', False, True) 528
+('EX2', True, True) 270
+('EX3', False, False) 535
+('EX3', True, True) 262
+('EX4', False, True) 543
+('EX4', True, True) 254
+{"eolienne": "EX2", "zone": "vallee", "horodatage": "2026-11-09T09:08:30.000+00:00", "seq": 45931, "pi2": 9.939240506329115}
+{"eolienne": "EX3", "zone": "vallee", "horodatage": "2026-11-09T09:08:30.000+00:00", "seq": 45931}
+{"eolienne": "EX4", "zone": "vallee", "horodatage": "2026-11-09T09:08:30.000+00:00", "seq": 45931, "pi2": 18.009917355371904}

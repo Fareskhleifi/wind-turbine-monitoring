@@ -1,0 +1,14 @@
+# Thème du tableau de bord (partie 15) — lu par Streamlit lancé depuis la racine du projet
+[theme]
+base = "dark"
+primaryColor = "#21B6A8"
+backgroundColor = "#020D19"
+secondaryBackgroundColor = "#062333"
+textColor = "#F4F7FA"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true

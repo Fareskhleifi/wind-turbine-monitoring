@@ -1,0 +1,8 @@
+Φ E1 seule : 22 tranches, écart médian à la référence = 1.00%
+E1 seule : écart médian durablement < 5% à partir de N = 270
+E1 seule : écart médian durablement < 2% à partir de N = 270
+E1 seule : écart final = 1.00% avec N = 1445, 22 tranches
+E1 à E5 : écart médian durablement < 5% à partir de N = 240
+E1 à E5 : écart médian durablement < 2% à partir de N = 240
+E1 à E5 : écart final = 0.00% avec N = 7519, 33 tranches
+-> results/graphiques/phi_e1.png, results/graphiques/convergence.png, results/tableaux/convergence.csv

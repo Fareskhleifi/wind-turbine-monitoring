@@ -1,0 +1,50 @@
+E1 : 2004 mesures, D = 3.0
+E2 : 2004 mesures, D = 5.0
+E3 : 2004 mesures, D = 5.0
+E4 : 2004 mesures, D = 8.0
+E5 : 2004 mesures, D = 3.0
+-> results/graphiques/pi1_pi2.png
+10055 mesures E1-E5 dont 2648 points d'arrêt (0,0) écartés
+  Π2 ∈ [ 5.5,  6.0[  n =     5  médiane = 0.0298  moyenne = 0.0292  écartée (n < 20)
+  Π2 ∈ [ 6.0,  6.5[  n =    51  médiane = 0.0304  moyenne = 0.0307  retenue
+  Π2 ∈ [ 6.5,  7.0[  n =    30  médiane = 0.0404  moyenne = 0.0399  retenue
+  Π2 ∈ [ 7.0,  7.5[  n =    45  médiane = 0.0503  moyenne = 0.0491  retenue
+  Π2 ∈ [ 7.5,  8.0[  n =    57  médiane = 0.0587  moyenne = 0.0593  retenue
+  Π2 ∈ [ 8.0,  8.5[  n =    98  médiane = 0.0714  moyenne = 0.0703  retenue
+  Π2 ∈ [ 8.5,  9.0[  n =    91  médiane = 0.0819  moyenne = 0.0814  retenue
+  Π2 ∈ [ 9.0,  9.5[  n =   139  médiane = 0.0956  moyenne = 0.0940  retenue
+  Π2 ∈ [ 9.5, 10.0[  n =   163  médiane = 0.1092  moyenne = 0.1076  retenue
+  Π2 ∈ [10.0, 10.5[  n =   207  médiane = 0.1210  moyenne = 0.1197  retenue
+  Π2 ∈ [10.5, 11.0[  n =   263  médiane = 0.1331  moyenne = 0.1309  retenue
+  Π2 ∈ [11.0, 11.5[  n =   305  médiane = 0.1450  moyenne = 0.1423  retenue
+  Π2 ∈ [11.5, 12.0[  n =   389  médiane = 0.1548  moyenne = 0.1519  retenue
+  Π2 ∈ [12.0, 12.5[  n =   364  médiane = 0.1644  moyenne = 0.1609  retenue
+  Π2 ∈ [12.5, 13.0[  n =   451  médiane = 0.1711  moyenne = 0.1676  retenue
+  Π2 ∈ [13.0, 13.5[  n =   493  médiane = 0.1766  moyenne = 0.1731  retenue
+  Π2 ∈ [13.5, 14.0[  n =   486  médiane = 0.1782  moyenne = 0.1752  retenue
+  Π2 ∈ [14.0, 14.5[  n =   485  médiane = 0.1786  moyenne = 0.1753  retenue
+  Π2 ∈ [14.5, 15.0[  n =   557  médiane = 0.1761  moyenne = 0.1724  retenue
+  Π2 ∈ [15.0, 15.5[  n =   446  médiane = 0.1717  moyenne = 0.1686  retenue
+  Π2 ∈ [15.5, 16.0[  n =   397  médiane = 0.1644  moyenne = 0.1609  retenue
+  Π2 ∈ [16.0, 16.5[  n =   358  médiane = 0.1554  moyenne = 0.1522  retenue
+  Π2 ∈ [16.5, 17.0[  n =   347  médiane = 0.1452  moyenne = 0.1425  retenue
+  Π2 ∈ [17.0, 17.5[  n =   279  médiane = 0.1333  moyenne = 0.1315  retenue
+  Π2 ∈ [17.5, 18.0[  n =   231  médiane = 0.1200  moyenne = 0.1181  retenue
+  Π2 ∈ [18.0, 18.5[  n =   179  médiane = 0.1074  moyenne = 0.1065  retenue
+  Π2 ∈ [18.5, 19.0[  n =   125  médiane = 0.0948  moyenne = 0.0937  retenue
+  Π2 ∈ [19.0, 19.5[  n =   119  médiane = 0.0828  moyenne = 0.0818  retenue
+  Π2 ∈ [19.5, 20.0[  n =    75  médiane = 0.0707  moyenne = 0.0702  retenue
+  Π2 ∈ [20.0, 20.5[  n =    54  médiane = 0.0600  moyenne = 0.0593  retenue
+  Π2 ∈ [20.5, 21.0[  n =    48  médiane = 0.0493  moyenne = 0.0494  retenue
+  Π2 ∈ [21.0, 21.5[  n =    28  médiane = 0.0422  moyenne = 0.0412  retenue
+  Π2 ∈ [21.5, 22.0[  n =    22  médiane = 0.0331  moyenne = 0.0329  retenue
+  Π2 ∈ [22.0, 22.5[  n =    20  médiane = 0.0307  moyenne = 0.0296  retenue
+33 tranches retenues sur 34 -> results/tableaux/phi.json
+-> results/graphiques/phi.png
+Éolienne   mesures  arrêts r calculés  médiane r  hors ±10%
+E1            2017     590       1427      1.011       2.5%
+E2            2017     595       1421      0.857      90.1%
+E3            2017     600       1415      1.011       1.2%
+E4            2017     596       1419      1.010       1.6%
+E5            2017     282       1735      1.011       2.0%
+-> results/graphiques/r_par_eolienne.png

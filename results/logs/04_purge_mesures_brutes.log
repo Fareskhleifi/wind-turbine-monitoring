@@ -1,0 +1,9 @@
+Executing records delete operation
+Records delete operation completed:
+partition: ferme.eoliennes-1	low_watermark: 208
+partition: ferme.eoliennes-2	low_watermark: 208
+partition: ferme.eoliennes-0	low_watermark: 624
+partition: ferme.eoliennes-5	low_watermark: 624
+partition: ferme.eoliennes-3	low_watermark: 1042
+partition: ferme.eoliennes-4	low_watermark: 416
+94669 messages dans ferme.eoliennes ; sans rho_kgm3 (hors EX simulées) : 0 ; plus ancien : 08:29:27 UTC

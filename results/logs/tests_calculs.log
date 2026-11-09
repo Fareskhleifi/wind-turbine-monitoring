@@ -1,0 +1,9 @@
+OK  test_rho
+OK  test_pont_ajoute_rho_et_tolere_les_erreurs
+OK  test_matrice_dimensionnelle_et_groupes_pi
+OK  test_groupes_pi_et_mesures_incompletes
+OK  test_construire_phi
+OK  test_etats
+OK  test_simulation_manques
+OK  test_tableau_de_bord_fidele_aux_calculs
+Tous les tests passent.

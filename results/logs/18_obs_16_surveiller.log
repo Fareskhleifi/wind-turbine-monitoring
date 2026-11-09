@@ -1,0 +1,1112 @@
+--- 09:35:17 UTC
+  E6   CAPTEUR          médiane r = 1.034  hors abaque =  6/60  r>2 = 15  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E6 : None -> CAPTEUR
+  E7   CAPTEUR          médiane r = 0.568  hors abaque =  8/60  r>2 = 2  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E7 : None -> CAPTEUR
+  E8   OK               médiane r = 1.004  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E8 : None -> OK
+  E9   OK               médiane r = 1.013  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E9 : None -> OK
+  E10  SOUS_PRODUCTION  médiane r = 0.757  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E10 : None -> SOUS_PRODUCTION
+  E11  OK               médiane r = 1.003  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E11 : None -> OK
+  E12  CAPTEUR          médiane r = 0.899  hors abaque =  0/60  r>2 = 1  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E12 : None -> CAPTEUR
+  E13  OK               médiane r = 1.007  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E13 : None -> OK
+  E14  OK               médiane r = 0.935  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E14 : None -> OK
+  E15  OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:14.000+00:00
+  ALERTE E15 : None -> OK
+  EX1  HORS_ABAQUE      médiane r = 1.014  hors abaque = 31/48  r>2 = 0  dernière mesure = 2026-11-09T09:35:11.000+00:00
+  ALERTE EX1 : None -> HORS_ABAQUE
+  EX2  HORS_ABAQUE      médiane r = 0.849  hors abaque = 42/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:13.000+00:00
+  ALERTE EX2 : None -> HORS_ABAQUE
+  EX3  HORS_ABAQUE      médiane r = 1.033  hors abaque = 55/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:13.000+00:00
+  ALERTE EX3 : None -> HORS_ABAQUE
+  EX4  HORS_ABAQUE      médiane r = 1.016  hors abaque = 45/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:13.000+00:00
+  ALERTE EX4 : None -> HORS_ABAQUE
+  EX5  OK               médiane r = 1.002  hors abaque =  0/16  r>2 = 0  dernière mesure = 2026-11-09T09:35:13.000+00:00
+  ALERTE EX5 : None -> OK
+--- 09:35:27 UTC
+  E6   CAPTEUR          médiane r = 1.017  hors abaque =  6/60  r>2 = 5  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  E7   CAPTEUR          médiane r = 0.558  hors abaque =  8/60  r>2 = 3  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  E8   OK               médiane r = 1.007  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  E9   OK               médiane r = 1.012  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.755  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  E11  OK               médiane r = 1.007  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  E12  CAPTEUR          médiane r = 0.899  hors abaque =  0/60  r>2 = 1  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  E13  OK               médiane r = 1.007  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  E14  OK               médiane r = 0.936  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  E15  OK               médiane r = 1.006  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:24.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.015  hors abaque = 34/52  r>2 = 0  dernière mesure = 2026-11-09T09:35:23.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.852  hors abaque = 40/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:23.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.003  hors abaque = 52/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:23.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.001  hors abaque = 42/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:23.000+00:00
+  EX5  OK               médiane r = 0.995  hors abaque =  0/26  r>2 = 0  dernière mesure = 2026-11-09T09:35:23.000+00:00
+--- 09:35:37 UTC
+  E6   OK               médiane r = 1.014  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  ALERTE E6 : CAPTEUR -> OK
+  E7   CAPTEUR          médiane r = 0.473  hors abaque =  8/60  r>2 = 2  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  E8   OK               médiane r = 1.007  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  E9   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.757  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  E11  OK               médiane r = 1.007  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  E12  CAPTEUR          médiane r = 0.964  hors abaque =  0/60  r>2 = 1  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  E13  OK               médiane r = 1.005  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  E14  OK               médiane r = 0.940  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  E15  OK               médiane r = 1.012  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:34.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.016  hors abaque = 35/56  r>2 = 0  dernière mesure = 2026-11-09T09:35:33.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.860  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:33.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.978  hors abaque = 54/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:33.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.001  hors abaque = 42/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:33.000+00:00
+  EX5  OK               médiane r = 1.000  hors abaque =  0/36  r>2 = 0  dernière mesure = 2026-11-09T09:35:33.000+00:00
+--- 09:35:47 UTC
+  E6   OK               médiane r = 1.010  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  E7   CAPTEUR          médiane r = 0.465  hors abaque =  7/60  r>2 = 2  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  E8   OK               médiane r = 1.010  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  E9   OK               médiane r = 1.004  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.758  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  E11  OK               médiane r = 1.009  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  E12  CAPTEUR          médiane r = 0.964  hors abaque =  0/60  r>2 = 2  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  E13  OK               médiane r = 1.009  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  E14  OK               médiane r = 0.937  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  E15  OK               médiane r = 1.014  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:44.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.016  hors abaque = 35/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:41.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.868  hors abaque = 35/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:43.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.979  hors abaque = 52/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:43.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.006  hors abaque = 35/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:43.000+00:00
+  EX5  OK               médiane r = 1.007  hors abaque =  0/46  r>2 = 0  dernière mesure = 2026-11-09T09:35:43.000+00:00
+--- 09:35:57 UTC
+  E6   OK               médiane r = 1.005  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  E7   CAPTEUR          médiane r = 0.471  hors abaque =  3/60  r>2 = 3  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  E8   OK               médiane r = 1.010  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  E9   OK               médiane r = 1.004  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.757  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  E11  OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  E12  CAPTEUR          médiane r = 0.935  hors abaque =  0/60  r>2 = 2  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  E13  OK               médiane r = 1.014  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  E14  OK               médiane r = 0.938  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:54.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.021  hors abaque = 34/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:51.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.871  hors abaque = 30/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:53.000+00:00
+  ALERTE EX2 : HORS_ABAQUE -> SOUS_PRODUCTION
+  EX3  HORS_ABAQUE      médiane r = 0.993  hors abaque = 50/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:53.000+00:00
+  EX4  OK               médiane r = 0.996  hors abaque = 29/60  r>2 = 0  dernière mesure = 2026-11-09T09:35:53.000+00:00
+  ALERTE EX4 : HORS_ABAQUE -> OK
+  EX5  OK               médiane r = 1.007  hors abaque =  0/56  r>2 = 0  dernière mesure = 2026-11-09T09:35:53.000+00:00
+--- 09:36:07 UTC
+  E6   OK               médiane r = 1.012  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  E7   CAPTEUR          médiane r = 0.484  hors abaque =  2/60  r>2 = 3  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  E8   OK               médiane r = 1.006  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  E9   OK               médiane r = 1.001  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.760  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  E11  OK               médiane r = 1.007  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  E12  CAPTEUR          médiane r = 0.926  hors abaque =  0/60  r>2 = 1  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  E13  OK               médiane r = 1.012  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  E14  OK               médiane r = 0.937  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  E15  OK               médiane r = 1.016  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:04.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.021  hors abaque = 32/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:00.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.871  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:03.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.004  hors abaque = 47/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:03.000+00:00
+  EX4  OK               médiane r = 0.996  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:03.000+00:00
+  EX5  OK               médiane r = 1.001  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:03.000+00:00
+--- 09:36:17 UTC
+  E6   OK               médiane r = 1.008  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  E7   CAPTEUR          médiane r = 0.515  hors abaque =  9/60  r>2 = 3  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  E8   OK               médiane r = 1.008  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  E9   OK               médiane r = 1.001  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.760  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  E11  OK               médiane r = 1.006  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  E12  CAPTEUR          médiane r = 0.883  hors abaque =  0/60  r>2 = 1  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  E13  OK               médiane r = 1.010  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  E14  OK               médiane r = 0.935  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  E15  OK               médiane r = 1.016  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:14.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.021  hors abaque = 31/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:07.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.871  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:13.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.005  hors abaque = 42/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:13.000+00:00
+  EX4  OK               médiane r = 1.015  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:13.000+00:00
+  EX5  OK               médiane r = 1.004  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:13.000+00:00
+--- 09:36:26 UTC
+  E6   OK               médiane r = 1.011  hors abaque = 13/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  E7   CAPTEUR          médiane r = 0.548  hors abaque = 14/60  r>2 = 2  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  E8   OK               médiane r = 0.999  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  E9   OK               médiane r = 1.016  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.761  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  E11  OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  E12  CAPTEUR          médiane r = 0.846  hors abaque =  0/60  r>2 = 2  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  E13  OK               médiane r = 1.006  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  E14  OK               médiane r = 0.935  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  E15  OK               médiane r = 1.016  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 29/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  ALERTE EX1 : HORS_ABAQUE -> OK
+  EX2  SOUS_PRODUCTION  médiane r = 0.871  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.006  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  EX4  OK               médiane r = 1.021  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:24.000+00:00
+--- 09:36:37 UTC
+  E6   OK               médiane r = 1.011  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  E7   CAPTEUR          médiane r = 0.625  hors abaque = 23/60  r>2 = 2  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  E8   OK               médiane r = 0.991  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  E9   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.757  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  E11  OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  E12  CAPTEUR          médiane r = 0.868  hors abaque =  0/60  r>2 = 2  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  E13  OK               médiane r = 1.008  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  E14  OK               médiane r = 0.935  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  E15  OK               médiane r = 1.016  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 27/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:28.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.873  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.006  hors abaque = 40/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  EX4  OK               médiane r = 1.012  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:34.000+00:00
+--- 09:36:47 UTC
+  E6   OK               médiane r = 1.013  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  E7   CAPTEUR          médiane r = 0.702  hors abaque = 23/60  r>2 = 3  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  E8   OK               médiane r = 0.991  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  E9   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.757  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  E11  OK               médiane r = 1.007  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  E12  CAPTEUR          médiane r = 0.859  hors abaque =  0/60  r>2 = 1  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  E13  OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  E14  OK               médiane r = 0.935  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  E15  OK               médiane r = 1.016  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  EX1  OK               médiane r = 1.019  hors abaque = 24/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:41.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.870  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.006  hors abaque = 39/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  EX4  OK               médiane r = 0.996  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:44.000+00:00
+--- 09:36:57 UTC
+  E6   OK               médiane r = 1.018  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  E7   CAPTEUR          médiane r = 0.634  hors abaque = 23/60  r>2 = 3  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  E8   OK               médiane r = 1.000  hors abaque = 24/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  E9   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.757  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  E11  OK               médiane r = 1.019  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  E12  CAPTEUR          médiane r = 0.889  hors abaque =  0/60  r>2 = 1  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  E13  OK               médiane r = 1.006  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  E14  OK               médiane r = 0.932  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:49.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.862  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.005  hors abaque = 40/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  EX4  OK               médiane r = 1.011  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+  EX5  OK               médiane r = 1.012  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:54.000+00:00
+--- 09:37:07 UTC
+  E6   OK               médiane r = 1.014  hors abaque = 20/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  E7   CAPTEUR          médiane r = 0.641  hors abaque = 21/60  r>2 = 3  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  E8   OK               médiane r = 1.005  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  E9   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.755  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  E11  OK               médiane r = 1.020  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  E12  CAPTEUR          médiane r = 0.887  hors abaque =  0/60  r>2 = 1  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  E13  OK               médiane r = 1.006  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  E14  OK               médiane r = 0.933  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 19/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:03.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.863  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.000  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  EX4  OK               médiane r = 1.011  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:04.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:37:17 UTC
+  E6   OK               médiane r = 1.014  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  E7   CAPTEUR          médiane r = 0.650  hors abaque = 14/60  r>2 = 3  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  E8   OK               médiane r = 1.005  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  E9   OK               médiane r = 1.013  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.756  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  E11  OK               médiane r = 1.018  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  E12  CAPTEUR          médiane r = 0.885  hors abaque =  4/60  r>2 = 1  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  E13  OK               médiane r = 1.008  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  E14  OK               médiane r = 0.931  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  E15  OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 19/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:03.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.861  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.003  hors abaque = 44/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  EX4  OK               médiane r = 0.995  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:14.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:37:27 UTC
+  E6   OK               médiane r = 1.014  hors abaque =  9/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  E7   CAPTEUR          médiane r = 0.660  hors abaque =  9/60  r>2 = 3  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  E8   OK               médiane r = 1.006  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  E9   OK               médiane r = 1.010  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.756  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  E11  OK               médiane r = 1.010  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  E12  OK               médiane r = 0.953  hors abaque =  9/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  ALERTE E12 : CAPTEUR -> OK
+  E13  OK               médiane r = 1.012  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  E14  OK               médiane r = 0.930  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 19/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:22.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.857  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.004  hors abaque = 46/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  EX4  OK               médiane r = 0.992  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:24.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:37:36 UTC
+  E6   OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  E7   CAPTEUR          médiane r = 0.659  hors abaque =  0/60  r>2 = 3  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  E8   OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  E9   OK               médiane r = 1.008  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.756  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  E11  OK               médiane r = 1.016  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.883  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  ALERTE E12 : OK -> SOUS_PRODUCTION
+  E13  OK               médiane r = 1.007  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  E14  OK               médiane r = 0.930  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:27.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.857  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.001  hors abaque = 44/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  EX4  OK               médiane r = 0.990  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:34.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:37:46 UTC
+  E6   OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  E7   CAPTEUR          médiane r = 0.658  hors abaque =  0/60  r>2 = 2  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  E8   OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  E9   OK               médiane r = 1.010  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.760  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  E11  OK               médiane r = 1.018  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.803  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  E13  OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  E14  OK               médiane r = 0.927  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  EX1  OK               médiane r = 1.023  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:41.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.855  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.006  hors abaque = 43/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  EX4  OK               médiane r = 0.999  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:44.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:37:57 UTC
+  E6   OK               médiane r = 1.007  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  E7   CAPTEUR          médiane r = 0.660  hors abaque =  0/60  r>2 = 2  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  E8   OK               médiane r = 1.006  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  E9   OK               médiane r = 1.008  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.760  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  E11  OK               médiane r = 1.004  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.803  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  E13  OK               médiane r = 1.008  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  E14  OK               médiane r = 0.922  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  EX1  OK               médiane r = 1.024  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:51.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.864  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.018  hors abaque = 42/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  EX4  OK               médiane r = 1.001  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:37:54.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:38:07 UTC
+  E6   OK               médiane r = 1.008  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  E7   CAPTEUR          médiane r = 0.688  hors abaque =  0/60  r>2 = 3  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  E8   OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  E9   OK               médiane r = 1.007  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.766  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  E11  OK               médiane r = 1.000  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.806  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  E13  OK               médiane r = 1.006  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  E14  OK               médiane r = 0.917  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  EX1  OK               médiane r = 1.024  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:03.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.864  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.013  hors abaque = 40/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  EX4  OK               médiane r = 1.014  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:04.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:38:17 UTC
+  E6   OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  E7   CAPTEUR          médiane r = 0.688  hors abaque =  0/60  r>2 = 3  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  E8   OK               médiane r = 1.012  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  E9   OK               médiane r = 1.007  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.763  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  E11  OK               médiane r = 1.004  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.829  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  E13  OK               médiane r = 1.006  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  E14  OK               médiane r = 0.919  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  E15  OK               médiane r = 1.017  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  EX1  OK               médiane r = 1.023  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:11.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.867  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.010  hors abaque = 40/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  EX4  OK               médiane r = 1.014  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:14.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:38:27 UTC
+  E6   OK               médiane r = 1.013  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  E7   CAPTEUR          médiane r = 0.671  hors abaque =  0/60  r>2 = 2  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  E8   OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  E9   OK               médiane r = 1.009  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.761  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  E11  OK               médiane r = 1.001  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.827  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  E13  OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  E14  OK               médiane r = 0.916  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.868  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.010  hors abaque = 42/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  EX4  OK               médiane r = 1.025  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:24.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:38:36 UTC
+  E6   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  E7   CAPTEUR          médiane r = 0.692  hors abaque =  0/60  r>2 = 4  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  E8   OK               médiane r = 1.017  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  E9   OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.761  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  E11  OK               médiane r = 1.001  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.817  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  E13  OK               médiane r = 1.008  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  E14  OK               médiane r = 0.911  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:29.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.868  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.013  hors abaque = 47/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  EX4  OK               médiane r = 1.014  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:34.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:38:47 UTC
+  E6   OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  E7   CAPTEUR          médiane r = 0.703  hors abaque =  0/60  r>2 = 4  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  E8   OK               médiane r = 1.016  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  E9   OK               médiane r = 1.012  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.761  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  E11  OK               médiane r = 1.006  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.833  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  E13  OK               médiane r = 1.007  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  E14  OK               médiane r = 0.912  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.867  hors abaque = 30/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.988  hors abaque = 49/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  EX4  OK               médiane r = 1.012  hors abaque = 30/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:44.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:38:57 UTC
+  E6   OK               médiane r = 1.013  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  E7   CAPTEUR          médiane r = 0.742  hors abaque =  0/60  r>2 = 4  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  E8   OK               médiane r = 1.017  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  E9   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.761  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  E11  OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.853  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  E13  OK               médiane r = 1.003  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  E14  OK               médiane r = 0.914  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  E15  OK               médiane r = 1.014  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:52.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.856  hors abaque = 34/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  ALERTE EX2 : SOUS_PRODUCTION -> HORS_ABAQUE
+  EX3  HORS_ABAQUE      médiane r = 0.986  hors abaque = 51/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.027  hors abaque = 34/60  r>2 = 0  dernière mesure = 2026-11-09T09:38:54.000+00:00
+  ALERTE EX4 : OK -> HORS_ABAQUE
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:39:07 UTC
+  E6   OK               médiane r = 1.012  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  E7   CAPTEUR          médiane r = 0.627  hors abaque =  6/60  r>2 = 3  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  E8   OK               médiane r = 1.018  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  E9   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.753  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  E11  OK               médiane r = 1.009  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  E12  OK               médiane r = 0.992  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  ALERTE E12 : SOUS_PRODUCTION -> OK
+  E13  OK               médiane r = 1.004  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  E14  OK               médiane r = 0.918  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  E15  OK               médiane r = 1.013  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  EX1  OK               médiane r = 1.018  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:03.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.855  hors abaque = 39/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.986  hors abaque = 53/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.017  hors abaque = 39/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:04.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:39:17 UTC
+  E6   OK               médiane r = 1.000  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  E7   CAPTEUR          médiane r = 0.627  hors abaque = 16/60  r>2 = 3  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  E8   OK               médiane r = 1.018  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  E9   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.753  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  E11  OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  E12  OK               médiane r = 0.970  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  E13  OK               médiane r = 1.003  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  E14  OK               médiane r = 0.918  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  E15  OK               médiane r = 1.001  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  EX1  OK               médiane r = 1.020  hors abaque = 19/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:13.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.856  hors abaque = 37/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.986  hors abaque = 55/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.010  hors abaque = 37/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:14.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:39:27 UTC
+  E6   OK               médiane r = 0.997  hors abaque = 26/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:24.000+00:00
+  E7   CAPTEUR          médiane r = 0.591  hors abaque = 26/60  r>2 = 3  dernière mesure = 2026-11-09T09:39:24.000+00:00
+  E8   OK               médiane r = 1.020  hors abaque = 23/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:21.000+00:00
+  E9   OK               médiane r = 1.009  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.756  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:24.000+00:00
+  E11  OK               médiane r = 1.001  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:21.000+00:00
+  E12  OK               médiane r = 0.956  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:24.000+00:00
+  E13  OK               médiane r = 1.004  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:21.000+00:00
+  E14  OK               médiane r = 0.918  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:24.000+00:00
+  E15  OK               médiane r = 1.007  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:24.000+00:00
+  EX1  OK               médiane r = 1.020  hors abaque = 20/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:16.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.856  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:21.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.986  hors abaque = 55/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:21.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.010  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:24.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:39:37 UTC
+  E6   HORS_ABAQUE      médiane r = 0.998  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  ALERTE E6 : OK -> HORS_ABAQUE
+  E7   HORS_ABAQUE      médiane r = 0.546  hors abaque = 36/60  r>2 = 1  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  ALERTE E7 : CAPTEUR -> HORS_ABAQUE
+  E8   HORS_ABAQUE      médiane r = 1.016  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  ALERTE E8 : OK -> HORS_ABAQUE
+  E9   OK               médiane r = 1.011  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.754  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  E11  OK               médiane r = 1.005  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  E12  OK               médiane r = 0.923  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  E13  OK               médiane r = 0.999  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  E14  OK               médiane r = 0.925  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  E15  OK               médiane r = 1.003  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  EX1  OK               médiane r = 1.020  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:31.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.856  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.986  hors abaque = 55/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.010  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:34.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:39:47 UTC
+  E6   HORS_ABAQUE      médiane r = 1.001  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  E7   HORS_ABAQUE      médiane r = 0.669  hors abaque = 41/60  r>2 = 1  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  E8   HORS_ABAQUE      médiane r = 1.030  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  E9   OK               médiane r = 0.998  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.752  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  E11  OK               médiane r = 1.000  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  E12  OK               médiane r = 0.922  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  E13  OK               médiane r = 1.003  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  E14  OK               médiane r = 0.927  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  E15  OK               médiane r = 1.003  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  EX1  OK               médiane r = 1.020  hors abaque = 27/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.858  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.028  hors abaque = 57/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 0.995  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:44.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:39:56 UTC
+  E6   HORS_ABAQUE      médiane r = 1.001  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  E7   HORS_ABAQUE      médiane r = 0.758  hors abaque = 41/60  r>2 = 1  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  E8   HORS_ABAQUE      médiane r = 1.016  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  E9   OK               médiane r = 1.003  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.755  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  E11  OK               médiane r = 0.998  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.878  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  ALERTE E12 : OK -> SOUS_PRODUCTION
+  E13  OK               médiane r = 1.006  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  E14  OK               médiane r = 0.927  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  E15  OK               médiane r = 1.002  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  EX1  OK               médiane r = 1.020  hors abaque = 30/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:53.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.906  hors abaque = 47/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.006  hors abaque = 58/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 0.973  hors abaque = 47/60  r>2 = 0  dernière mesure = 2026-11-09T09:39:54.000+00:00
+  EX5  OK               médiane r = 1.015  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:36:59.000+00:00
+--- 09:40:06 UTC
+  E6   HORS_ABAQUE      médiane r = 1.005  hors abaque = 38/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  E7   HORS_ABAQUE      médiane r = 0.674  hors abaque = 40/60  r>2 = 1  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  E8   HORS_ABAQUE      médiane r = 1.001  hors abaque = 37/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  E9   OK               médiane r = 1.004  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.759  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  E11  OK               médiane r = 1.008  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.876  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  E13  OK               médiane r = 1.024  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  E14  OK               médiane r = 0.923  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  E15  OK               médiane r = 1.001  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.020  hors abaque = 32/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:03.000+00:00
+  ALERTE EX1 : OK -> HORS_ABAQUE
+  EX2  HORS_ABAQUE      médiane r = 0.904  hors abaque = 47/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.014  hors abaque = 58/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 0.958  hors abaque = 48/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+  EX5  OK               médiane r = 1.016  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:04.000+00:00
+--- 09:40:17 UTC
+  E6   OK               médiane r = 1.015  hors abaque = 30/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  ALERTE E6 : HORS_ABAQUE -> OK
+  E7   HORS_ABAQUE      médiane r = 0.682  hors abaque = 32/60  r>2 = 1  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  E8   OK               médiane r = 1.001  hors abaque = 29/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  ALERTE E8 : HORS_ABAQUE -> OK
+  E9   OK               médiane r = 1.002  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.759  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  E11  OK               médiane r = 1.011  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.876  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  E13  OK               médiane r = 1.021  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  E14  OK               médiane r = 0.926  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  E15  OK               médiane r = 1.006  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.020  hors abaque = 33/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:09.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.904  hors abaque = 54/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.014  hors abaque = 58/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 0.991  hors abaque = 55/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+  EX5  OK               médiane r = 1.017  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:14.000+00:00
+--- 09:40:27 UTC
+  E6   OK               médiane r = 1.015  hors abaque = 27/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  E7   CAPTEUR          médiane r = 0.674  hors abaque = 28/60  r>2 = 1  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  ALERTE E7 : HORS_ABAQUE -> CAPTEUR
+  E8   OK               médiane r = 1.008  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  E9   OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.758  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  E11  OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.848  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  E13  OK               médiane r = 1.018  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  E14  OK               médiane r = 0.931  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  E15  OK               médiane r = 1.006  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.020  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:22.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.901  hors abaque = 54/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.014  hors abaque = 58/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 0.991  hors abaque = 55/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+  EX5  OK               médiane r = 1.019  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:24.000+00:00
+--- 09:40:37 UTC
+  E6   OK               médiane r = 1.015  hors abaque = 27/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  E7   CAPTEUR          médiane r = 0.674  hors abaque = 28/60  r>2 = 1  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  E8   OK               médiane r = 1.008  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  E9   OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.763  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  E11  OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.848  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  E13  OK               médiane r = 1.024  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  E14  OK               médiane r = 0.927  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  E15  OK               médiane r = 1.006  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.021  hors abaque = 35/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.907  hors abaque = 45/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.009  hors abaque = 54/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 0.999  hors abaque = 47/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+  EX5  OK               médiane r = 1.020  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:34.000+00:00
+--- 09:40:47 UTC
+  E6   OK               médiane r = 1.016  hors abaque = 24/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  E7   CAPTEUR          médiane r = 0.642  hors abaque = 27/60  r>2 = 1  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  E8   OK               médiane r = 1.004  hors abaque = 23/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  E9   OK               médiane r = 1.013  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.766  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  E11  OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.872  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  E13  OK               médiane r = 1.016  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  E14  OK               médiane r = 0.921  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  E15  OK               médiane r = 1.013  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.020  hors abaque = 35/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:43.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.901  hors abaque = 35/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.001  hors abaque = 51/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.007  hors abaque = 37/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+  EX5  OK               médiane r = 1.019  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:44.000+00:00
+--- 09:40:57 UTC
+  E6   OK               médiane r = 1.016  hors abaque = 26/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  E7   SOUS_PRODUCTION  médiane r = 0.642  hors abaque = 29/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  ALERTE E7 : CAPTEUR -> SOUS_PRODUCTION
+  E8   OK               médiane r = 1.008  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  E9   OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.766  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  E11  OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  E12  OK               médiane r = 0.914  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  ALERTE E12 : SOUS_PRODUCTION -> OK
+  E13  OK               médiane r = 1.010  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  E14  OK               médiane r = 0.923  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.020  hors abaque = 35/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.888  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  ALERTE EX2 : HORS_ABAQUE -> SOUS_PRODUCTION
+  EX3  HORS_ABAQUE      médiane r = 1.004  hors abaque = 48/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  EX4  OK               médiane r = 1.007  hors abaque = 27/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+  ALERTE EX4 : HORS_ABAQUE -> OK
+  EX5  OK               médiane r = 1.011  hors abaque = 24/60  r>2 = 0  dernière mesure = 2026-11-09T09:40:54.000+00:00
+--- 09:41:07 UTC
+  E6   CAPTEUR          médiane r = 1.022  hors abaque = 23/60  r>2 = 4  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  ALERTE E6 : OK -> CAPTEUR
+  E7   SOUS_PRODUCTION  médiane r = 0.689  hors abaque = 24/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  E8   OK               médiane r = 1.008  hors abaque = 23/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  E9   OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.767  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  E11  OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.876  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  ALERTE E12 : OK -> SOUS_PRODUCTION
+  E13  OK               médiane r = 1.007  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  E14  OK               médiane r = 0.927  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  E15  OK               médiane r = 1.016  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  EX1  HORS_ABAQUE      médiane r = 1.020  hors abaque = 33/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.864  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:03.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.001  hors abaque = 47/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:03.000+00:00
+  EX4  OK               médiane r = 1.013  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+  EX5  OK               médiane r = 1.011  hors abaque = 23/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:04.000+00:00
+--- 09:41:17 UTC
+  E6   CAPTEUR          médiane r = 1.045  hors abaque = 21/60  r>2 = 14  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  E7   SOUS_PRODUCTION  médiane r = 0.689  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  E8   OK               médiane r = 1.016  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  E9   OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.768  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  E11  OK               médiane r = 1.017  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.849  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  E13  OK               médiane r = 1.007  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  E14  OK               médiane r = 0.928  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  E15  OK               médiane r = 1.019  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:14.000+00:00
+  EX1  OK               médiane r = 1.021  hors abaque = 30/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:13.000+00:00
+  ALERTE EX1 : HORS_ABAQUE -> OK
+  EX2  SOUS_PRODUCTION  médiane r = 0.855  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:13.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.995  hors abaque = 43/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:13.000+00:00
+  EX4  OK               médiane r = 1.010  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:13.000+00:00
+  EX5  OK               médiane r = 0.998  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:13.000+00:00
+--- 09:41:27 UTC
+  E6   CAPTEUR          médiane r = 2.176  hors abaque = 14/60  r>2 = 24  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  E7   SOUS_PRODUCTION  médiane r = 0.719  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  E8   OK               médiane r = 1.008  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  E9   OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.771  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  E11  OK               médiane r = 1.021  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.860  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  E13  OK               médiane r = 1.008  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  E14  OK               médiane r = 0.927  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  E15  OK               médiane r = 1.017  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:24.000+00:00
+  EX1  OK               médiane r = 1.022  hors abaque = 27/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:23.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.852  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:23.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.998  hors abaque = 42/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:23.000+00:00
+  EX4  OK               médiane r = 1.005  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:23.000+00:00
+  EX5  OK               médiane r = 1.009  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:23.000+00:00
+--- 09:41:37 UTC
+  E6   CAPTEUR          médiane r = 2.096  hors abaque =  4/60  r>2 = 29  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  E7   SOUS_PRODUCTION  médiane r = 0.749  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  E8   OK               médiane r = 1.010  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  E9   OK               médiane r = 1.015  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.767  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  E11  OK               médiane r = 1.020  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.867  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  E13  OK               médiane r = 1.008  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  E14  OK               médiane r = 0.931  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  E15  OK               médiane r = 1.016  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:34.000+00:00
+  EX1  OK               médiane r = 1.026  hors abaque = 26/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:31.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.845  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:33.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.006  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:33.000+00:00
+  EX4  OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:33.000+00:00
+  EX5  OK               médiane r = 1.009  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:33.000+00:00
+--- 09:41:46 UTC
+  E6   CAPTEUR          médiane r = 2.335  hors abaque = 12/60  r>2 = 29  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  E7   SOUS_PRODUCTION  médiane r = 0.750  hors abaque = 13/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  E8   OK               médiane r = 1.013  hors abaque = 13/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  E9   OK               médiane r = 1.016  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.765  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  E11  OK               médiane r = 1.020  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.882  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  E13  OK               médiane r = 1.010  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  E14  OK               médiane r = 0.935  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  E15  OK               médiane r = 1.012  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:44.000+00:00
+  EX1  OK               médiane r = 1.029  hors abaque = 23/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:41.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.855  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:43.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.003  hors abaque = 42/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:43.000+00:00
+  EX4  OK               médiane r = 1.000  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:43.000+00:00
+  EX5  OK               médiane r = 1.007  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:43.000+00:00
+--- 09:41:57 UTC
+  E6   CAPTEUR          médiane r = 2.390  hors abaque = 13/60  r>2 = 29  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  E7   CAPTEUR          médiane r = 0.688  hors abaque = 15/60  r>2 = 1  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  ALERTE E7 : SOUS_PRODUCTION -> CAPTEUR
+  E8   OK               médiane r = 1.013  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  E9   OK               médiane r = 1.016  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.762  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  E11  OK               médiane r = 1.014  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.833  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  E13  OK               médiane r = 1.009  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  E14  OK               médiane r = 0.934  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  E15  OK               médiane r = 1.006  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:54.000+00:00
+  EX1  OK               médiane r = 1.029  hors abaque = 23/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:53.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.857  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:53.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.016  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:53.000+00:00
+  EX4  OK               médiane r = 1.001  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:53.000+00:00
+  EX5  OK               médiane r = 1.007  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:53.000+00:00
+--- 09:42:07 UTC
+  E6   CAPTEUR          médiane r = 2.176  hors abaque = 14/60  r>2 = 25  dernière mesure = 2026-11-09T09:42:04.000+00:00
+  E7   CAPTEUR          médiane r = 0.685  hors abaque = 15/60  r>2 = 3  dernière mesure = 2026-11-09T09:42:01.000+00:00
+  E8   OK               médiane r = 1.020  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:59.000+00:00
+  E9   OK               médiane r = 1.017  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.760  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:04.000+00:00
+  E11  OK               médiane r = 1.012  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:59.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.882  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:04.000+00:00
+  E13  OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:59.000+00:00
+  E14  OK               médiane r = 0.935  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:04.000+00:00
+  E15  OK               médiane r = 1.008  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:04.000+00:00
+  EX1  OK               médiane r = 1.023  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:57.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.859  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.018  hors abaque = 43/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+  EX4  OK               médiane r = 1.000  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:03.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:42:17 UTC
+  E6   CAPTEUR          médiane r = 1.046  hors abaque = 24/60  r>2 = 15  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  E7   CAPTEUR          médiane r = 0.749  hors abaque = 26/60  r>2 = 3  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  E8   OK               médiane r = 1.005  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  E9   OK               médiane r = 1.009  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.761  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  E11  OK               médiane r = 1.004  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.882  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  E13  OK               médiane r = 1.012  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  E14  OK               médiane r = 0.936  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  E15  OK               médiane r = 1.008  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:14.000+00:00
+  EX1  OK               médiane r = 1.026  hors abaque = 23/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:09.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.859  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:13.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.027  hors abaque = 46/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:13.000+00:00
+  EX4  OK               médiane r = 1.001  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:13.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:42:27 UTC
+  E6   CAPTEUR          médiane r = 1.024  hors abaque = 30/60  r>2 = 5  dernière mesure = 2026-11-09T09:42:24.000+00:00
+  E7   HORS_ABAQUE      médiane r = 0.733  hors abaque = 32/60  r>2 = 3  dernière mesure = 2026-11-09T09:42:24.000+00:00
+  ALERTE E7 : CAPTEUR -> HORS_ABAQUE
+  E8   HORS_ABAQUE      médiane r = 1.013  hors abaque = 31/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:24.000+00:00
+  ALERTE E8 : OK -> HORS_ABAQUE
+  E9   OK               médiane r = 0.997  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.758  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:24.000+00:00
+  E11  OK               médiane r = 1.001  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:22.000+00:00
+  E12  OK               médiane r = 0.948  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:24.000+00:00
+  ALERTE E12 : SOUS_PRODUCTION -> OK
+  E13  OK               médiane r = 1.012  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:24.000+00:00
+  E14  OK               médiane r = 0.934  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:24.000+00:00
+  E15  OK               médiane r = 1.008  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:24.000+00:00
+  EX1  OK               médiane r = 1.026  hors abaque = 23/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:19.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.864  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:23.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.019  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:23.000+00:00
+  EX4  OK               médiane r = 1.010  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:23.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:42:37 UTC
+  E6   OK               médiane r = 1.016  hors abaque = 30/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  ALERTE E6 : CAPTEUR -> OK
+  E7   HORS_ABAQUE      médiane r = 0.523  hors abaque = 31/60  r>2 = 3  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  E8   OK               médiane r = 1.012  hors abaque = 30/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  ALERTE E8 : HORS_ABAQUE -> OK
+  E9   OK               médiane r = 0.999  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.758  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  E11  OK               médiane r = 1.007  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  E12  OK               médiane r = 0.948  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  E13  OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  E14  OK               médiane r = 0.934  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  E15  OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:34.000+00:00
+  EX1  OK               médiane r = 1.022  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:30.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.868  hors abaque = 13/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:33.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.025  hors abaque = 43/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:33.000+00:00
+  EX4  OK               médiane r = 1.010  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:33.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:42:46 UTC
+  E6   OK               médiane r = 1.008  hors abaque = 20/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  E7   CAPTEUR          médiane r = 0.544  hors abaque = 21/60  r>2 = 4  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  ALERTE E7 : HORS_ABAQUE -> CAPTEUR
+  E8   OK               médiane r = 1.002  hors abaque = 20/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  E9   OK               médiane r = 0.999  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.760  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  E11  OK               médiane r = 1.002  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  E12  OK               médiane r = 0.917  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  E13  OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  E14  OK               médiane r = 0.930  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  E15  OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:44.000+00:00
+  EX1  OK               médiane r = 1.022  hors abaque = 20/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:40.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.862  hors abaque = 20/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:43.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.026  hors abaque = 44/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:43.000+00:00
+  EX4  OK               médiane r = 1.014  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:43.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:42:56 UTC
+  E6   OK               médiane r = 1.005  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  E7   CAPTEUR          médiane r = 0.708  hors abaque = 17/60  r>2 = 3  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  E8   OK               médiane r = 1.006  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  E9   OK               médiane r = 1.002  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.762  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  E11  OK               médiane r = 1.010  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  E12  OK               médiane r = 0.948  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  E13  OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  E14  OK               médiane r = 0.930  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  E15  OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:54.000+00:00
+  EX1  OK               médiane r = 1.015  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:49.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.862  hors abaque = 19/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:53.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.022  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:53.000+00:00
+  EX4  OK               médiane r = 1.014  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:53.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:43:06 UTC
+  E6   OK               médiane r = 1.002  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:04.000+00:00
+  E7   CAPTEUR          médiane r = 0.599  hors abaque = 16/60  r>2 = 1  dernière mesure = 2026-11-09T09:43:04.000+00:00
+  E8   OK               médiane r = 1.010  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:00.000+00:00
+  E9   OK               médiane r = 1.002  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.762  hors abaque =  9/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:04.000+00:00
+  E11  OK               médiane r = 1.009  hors abaque =  9/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:01.000+00:00
+  E12  OK               médiane r = 0.904  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:04.000+00:00
+  E13  OK               médiane r = 1.011  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:00.000+00:00
+  E14  OK               médiane r = 0.931  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:04.000+00:00
+  E15  OK               médiane r = 1.011  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:04.000+00:00
+  EX1  OK               médiane r = 1.022  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:59.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.859  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:59.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.013  hors abaque = 40/60  r>2 = 0  dernière mesure = 2026-11-09T09:42:59.000+00:00
+  EX4  OK               médiane r = 1.006  hors abaque = 13/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:03.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:43:17 UTC
+  E6   OK               médiane r = 1.004  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  E7   CAPTEUR          médiane r = 0.625  hors abaque =  6/60  r>2 = 3  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  E8   OK               médiane r = 1.015  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  E9   OK               médiane r = 1.006  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.761  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  E11  OK               médiane r = 1.017  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.889  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  ALERTE E12 : OK -> SOUS_PRODUCTION
+  E13  OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  E14  OK               médiane r = 0.930  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:14.000+00:00
+  EX1  OK               médiane r = 1.017  hors abaque = 13/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:12.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.866  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:13.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.011  hors abaque = 35/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:13.000+00:00
+  EX4  OK               médiane r = 1.003  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:13.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:43:27 UTC
+  E6   OK               médiane r = 1.003  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  E7   CAPTEUR          médiane r = 0.718  hors abaque =  0/60  r>2 = 4  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  E8   OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  E9   OK               médiane r = 1.009  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.761  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  E11  OK               médiane r = 1.015  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.885  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  E13  OK               médiane r = 1.018  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  E14  OK               médiane r = 0.937  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:24.000+00:00
+  EX1  OK               médiane r = 1.017  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:23.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.862  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:23.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.015  hors abaque = 37/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:23.000+00:00
+  EX4  OK               médiane r = 0.992  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:23.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:43:37 UTC
+  E6   OK               médiane r = 1.000  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  E7   CAPTEUR          médiane r = 0.748  hors abaque =  6/60  r>2 = 4  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  E8   OK               médiane r = 1.013  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  E9   OK               médiane r = 1.008  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.765  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  E11  OK               médiane r = 1.012  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  E12  OK               médiane r = 0.913  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  ALERTE E12 : SOUS_PRODUCTION -> OK
+  E13  OK               médiane r = 1.020  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  E14  OK               médiane r = 0.935  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:34.000+00:00
+  EX1  OK               médiane r = 1.012  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:28.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.867  hors abaque = 13/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:33.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.012  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:33.000+00:00
+  EX4  OK               médiane r = 0.991  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:33.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:43:47 UTC
+  E6   OK               médiane r = 1.010  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  E7   CAPTEUR          médiane r = 0.740  hors abaque = 16/60  r>2 = 3  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  E8   OK               médiane r = 1.015  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  E9   OK               médiane r = 1.006  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.761  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  E11  OK               médiane r = 1.015  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.896  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  ALERTE E12 : OK -> SOUS_PRODUCTION
+  E13  OK               médiane r = 1.020  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  E14  OK               médiane r = 0.938  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:44.000+00:00
+  EX1  OK               médiane r = 1.012  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:43.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.871  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:43.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.014  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:43.000+00:00
+  EX4  OK               médiane r = 0.985  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:43.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:43:57 UTC
+  E6   OK               médiane r = 1.017  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  E7   CAPTEUR          médiane r = 0.783  hors abaque = 17/60  r>2 = 5  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  E8   OK               médiane r = 1.009  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  E9   OK               médiane r = 1.007  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.762  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  E11  OK               médiane r = 1.009  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  E12  OK               médiane r = 0.935  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  ALERTE E12 : SOUS_PRODUCTION -> OK
+  E13  OK               médiane r = 1.022  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  E14  OK               médiane r = 0.939  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  E15  OK               médiane r = 1.015  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:54.000+00:00
+  EX1  OK               médiane r = 1.013  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:50.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.869  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:53.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.014  hors abaque = 40/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:53.000+00:00
+  EX4  OK               médiane r = 0.992  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:53.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:44:07 UTC
+  E6   OK               médiane r = 1.010  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  E7   CAPTEUR          médiane r = 0.864  hors abaque = 17/60  r>2 = 5  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  E8   OK               médiane r = 1.016  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  E9   OK               médiane r = 1.009  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.762  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  E11  OK               médiane r = 1.011  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  E12  OK               médiane r = 0.950  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  E13  OK               médiane r = 1.020  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  E14  OK               médiane r = 0.930  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:04.000+00:00
+  EX1  OK               médiane r = 1.013  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:43:58.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.872  hors abaque = 22/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:03.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.017  hors abaque = 43/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:03.000+00:00
+  EX4  OK               médiane r = 0.993  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:03.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:44:17 UTC
+  E6   OK               médiane r = 0.999  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  E7   CAPTEUR          médiane r = 0.783  hors abaque = 17/60  r>2 = 3  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  E8   OK               médiane r = 1.017  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  E9   OK               médiane r = 1.012  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.763  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  E11  OK               médiane r = 1.005  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  E12  OK               médiane r = 0.965  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  E13  OK               médiane r = 1.016  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  E14  OK               médiane r = 0.931  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  E15  OK               médiane r = 1.008  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:14.000+00:00
+  EX1  OK               médiane r = 1.012  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:12.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.849  hors abaque = 30/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:13.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.022  hors abaque = 49/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:13.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 0.993  hors abaque = 31/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:13.000+00:00
+  ALERTE EX4 : OK -> HORS_ABAQUE
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:44:27 UTC
+  E6   OK               médiane r = 0.999  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  E7   CAPTEUR          médiane r = 0.713  hors abaque = 17/60  r>2 = 2  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  E8   OK               médiane r = 1.017  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  E9   OK               médiane r = 1.012  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.768  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  E11  OK               médiane r = 1.009  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  E12  OK               médiane r = 0.950  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  E13  OK               médiane r = 1.017  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  E14  OK               médiane r = 0.928  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:24.000+00:00
+  EX1  OK               médiane r = 1.012  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:19.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.869  hors abaque = 39/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:23.000+00:00
+  ALERTE EX2 : SOUS_PRODUCTION -> HORS_ABAQUE
+  EX3  HORS_ABAQUE      médiane r = 1.015  hors abaque = 53/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:23.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.033  hors abaque = 40/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:23.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:44:37 UTC
+  E6   OK               médiane r = 0.994  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  E7   CAPTEUR          médiane r = 0.585  hors abaque = 11/60  r>2 = 3  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  E8   OK               médiane r = 1.018  hors abaque = 12/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  E9   OK               médiane r = 1.019  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.763  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  E11  OK               médiane r = 1.017  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.882  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  ALERTE E12 : OK -> SOUS_PRODUCTION
+  E13  OK               médiane r = 1.021  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  E14  OK               médiane r = 0.929  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:34.000+00:00
+  EX1  OK               médiane r = 1.012  hors abaque = 18/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:19.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.855  hors abaque = 46/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:33.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.024  hors abaque = 56/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:33.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.043  hors abaque = 45/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:33.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:44:46 UTC
+  E6   OK               médiane r = 1.000  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  E7   CAPTEUR          médiane r = 0.641  hors abaque =  1/60  r>2 = 4  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  E8   OK               médiane r = 1.019  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  E9   OK               médiane r = 1.022  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.767  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  E11  OK               médiane r = 1.017  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.882  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  E13  OK               médiane r = 1.017  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  E14  OK               médiane r = 0.932  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  E15  OK               médiane r = 1.013  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:44.000+00:00
+  EX1  OK               médiane r = 0.999  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:41.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.845  hors abaque = 52/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:43.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 0.983  hors abaque = 56/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:43.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.047  hors abaque = 51/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:43.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:44:57 UTC
+  E6   OK               médiane r = 1.004  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  E7   CAPTEUR          médiane r = 0.643  hors abaque =  0/60  r>2 = 4  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  E8   OK               médiane r = 1.021  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  E9   OK               médiane r = 1.022  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.767  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  E11  OK               médiane r = 1.020  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.848  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  E13  OK               médiane r = 1.015  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  E14  OK               médiane r = 0.932  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  E15  OK               médiane r = 1.010  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:54.000+00:00
+  EX1  OK               médiane r = 1.007  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:53.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.861  hors abaque = 46/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:53.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.008  hors abaque = 53/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:53.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.012  hors abaque = 46/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:53.000+00:00
+  EX5  OK               médiane r = 1.006  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:41:58.000+00:00
+--- 09:45:07 UTC
+  E6   OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  E7   CAPTEUR          médiane r = 0.628  hors abaque =  0/60  r>2 = 4  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  E8   OK               médiane r = 1.017  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  E9   OK               médiane r = 1.021  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.762  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  E11  OK               médiane r = 1.020  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  E12  SOUS_PRODUCTION  médiane r = 0.856  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  E13  OK               médiane r = 1.016  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  E14  OK               médiane r = 0.930  hors abaque =  9/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:04.000+00:00
+  EX1  OK               médiane r = 0.999  hors abaque = 21/60  r>2 = 0  dernière mesure = 2026-11-09T09:44:59.000+00:00
+  EX2  HORS_ABAQUE      médiane r = 0.861  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:03.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.006  hors abaque = 49/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:03.000+00:00
+  EX4  HORS_ABAQUE      médiane r = 1.022  hors abaque = 36/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:03.000+00:00
+  EX5  OK               médiane r = 1.013  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:03.000+00:00
+--- 09:45:17 UTC
+  E6   OK               médiane r = 1.010  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  E7   CAPTEUR          médiane r = 0.628  hors abaque =  0/60  r>2 = 5  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  E8   OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  E9   OK               médiane r = 1.016  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.754  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  E11  OK               médiane r = 1.020  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  E12  CAPTEUR          médiane r = 0.865  hors abaque =  1/60  r>2 = 1  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  ALERTE E12 : SOUS_PRODUCTION -> CAPTEUR
+  E13  OK               médiane r = 1.016  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  E14  OK               médiane r = 0.926  hors abaque =  9/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  E15  OK               médiane r = 1.018  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  EX1  OK               médiane r = 1.012  hors abaque = 20/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:13.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.874  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  ALERTE EX2 : HORS_ABAQUE -> SOUS_PRODUCTION
+  EX3  HORS_ABAQUE      médiane r = 1.008  hors abaque = 45/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  EX4  OK               médiane r = 1.017  hors abaque = 25/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+  ALERTE EX4 : HORS_ABAQUE -> OK
+  EX5  OK               médiane r = 1.018  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:14.000+00:00
+--- 09:45:27 UTC
+  E6   OK               médiane r = 1.018  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  E7   CAPTEUR          médiane r = 0.586  hors abaque =  0/60  r>2 = 5  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  E8   OK               médiane r = 1.013  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  E9   OK               médiane r = 1.019  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.751  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  E11  OK               médiane r = 1.016  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  E12  CAPTEUR          médiane r = 0.856  hors abaque =  1/60  r>2 = 1  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  E13  OK               médiane r = 1.012  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  E14  OK               médiane r = 0.930  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  E15  OK               médiane r = 1.013  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:24.000+00:00
+  EX1  OK               médiane r = 1.012  hors abaque = 19/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:20.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.868  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:23.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.008  hors abaque = 43/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:23.000+00:00
+  EX4  OK               médiane r = 1.017  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:23.000+00:00
+  EX5  OK               médiane r = 1.019  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:23.000+00:00
+--- 09:45:37 UTC
+  E6   OK               médiane r = 1.018  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  E7   CAPTEUR          médiane r = 0.611  hors abaque =  0/60  r>2 = 4  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  E8   OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  E9   OK               médiane r = 1.015  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.752  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  E11  OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  E12  CAPTEUR          médiane r = 0.883  hors abaque =  1/60  r>2 = 1  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  E13  OK               médiane r = 1.006  hors abaque = 10/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  E14  OK               médiane r = 0.931  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  E15  OK               médiane r = 1.010  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  EX1  OK               médiane r = 1.011  hors abaque = 16/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.875  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.008  hors abaque = 38/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  EX4  OK               médiane r = 1.019  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+  EX5  OK               médiane r = 1.019  hors abaque = 14/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:34.000+00:00
+--- 09:45:47 UTC
+  E6   OK               médiane r = 1.012  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  E7   CAPTEUR          médiane r = 0.649  hors abaque =  0/60  r>2 = 4  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  E8   OK               médiane r = 1.013  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  E9   OK               médiane r = 1.015  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.752  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  E11  OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  E12  CAPTEUR          médiane r = 0.872  hors abaque =  1/60  r>2 = 1  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  E13  OK               médiane r = 1.000  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  E14  OK               médiane r = 0.928  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  EX1  OK               médiane r = 1.011  hors abaque = 17/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.881  hors abaque =  3/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.008  hors abaque = 40/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  EX4  OK               médiane r = 1.020  hors abaque =  2/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+  EX5  OK               médiane r = 1.016  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:44.000+00:00
+--- 09:45:57 UTC
+  E6   OK               médiane r = 1.015  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  E7   CAPTEUR          médiane r = 0.580  hors abaque =  0/60  r>2 = 2  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  E8   OK               médiane r = 1.005  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  E9   OK               médiane r = 1.018  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.751  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  E11  OK               médiane r = 1.016  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  E12  CAPTEUR          médiane r = 0.883  hors abaque =  1/60  r>2 = 1  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  E13  OK               médiane r = 1.000  hors abaque = 11/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  E14  OK               médiane r = 0.926  hors abaque =  6/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  E15  OK               médiane r = 1.008  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  EX1  OK               médiane r = 1.011  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.878  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.008  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  EX4  OK               médiane r = 1.020  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+  EX5  OK               médiane r = 1.020  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:54.000+00:00
+--- 09:46:07 UTC
+  E6   OK               médiane r = 1.006  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  E7   CAPTEUR          médiane r = 0.575  hors abaque =  0/60  r>2 = 2  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  E8   OK               médiane r = 1.000  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  E9   OK               médiane r = 1.020  hors abaque =  1/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  E10  SOUS_PRODUCTION  médiane r = 0.754  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  E11  OK               médiane r = 1.021  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  E12  CAPTEUR          médiane r = 0.842  hors abaque =  0/60  r>2 = 1  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  E13  OK               médiane r = 1.008  hors abaque =  8/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  E14  OK               médiane r = 0.928  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  E15  OK               médiane r = 1.009  hors abaque =  7/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  EX1  OK               médiane r = 1.017  hors abaque = 15/60  r>2 = 0  dernière mesure = 2026-11-09T09:45:58.000+00:00
+  EX2  SOUS_PRODUCTION  médiane r = 0.864  hors abaque =  5/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  EX3  HORS_ABAQUE      médiane r = 1.010  hors abaque = 41/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  EX4  OK               médiane r = 1.020  hors abaque =  4/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00
+  EX5  OK               médiane r = 1.014  hors abaque =  0/60  r>2 = 0  dernière mesure = 2026-11-09T09:46:04.000+00:00

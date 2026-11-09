@@ -1,0 +1,664 @@
+{"eolienne": "E12", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 61, "mediane_r": 0.8512150587974039, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E5", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 1.0055827271384297, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 62, "mediane_r": 1.008233096458934, "nb_suspects": 0, "nb_hors_abaque": 19, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 0.6805394711952116, "nb_suspects": 0, "nb_hors_abaque": 45, "etat": "HORS_ABAQUE"}
+{"eolienne": "E11", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.0037608598926, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 0.756269167624593, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E7", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 0.5308853619522594, "nb_suspects": 4, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E10", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 0.7567080535301624, "nb_suspects": 0, "nb_hors_abaque": 38, "etat": "HORS_ABAQUE"}
+{"eolienne": "E14", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 0.9301005381268505, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 0.9335327569233588, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.0127138451870465, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 0.759948131989882, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E9", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 1.0114333246842968, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.036913594592265, "nb_suspects": 18, "nb_hors_abaque": 12, "etat": "CAPTEUR"}
+{"eolienne": "E3", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.016751920600472, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 0.8485361493178298, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E15", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 1.0108282713521664, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.0154245112165368, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 0.8606547304836044, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E13", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 0.9999327192112373, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 1.050394682470656, "nb_suspects": 1, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E12", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 0.8779215076823049, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E5", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 1.0019471902848025, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 60, "mediane_r": 1.012528767251223, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.0081072652523575, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.0020072043583226, "nb_suspects": 0, "nb_hors_abaque": 10, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 0.8666489844251775, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E15", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.0007638818046025, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.007348349517013, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0163828020158756, "nb_suspects": 0, "nb_hors_abaque": 13, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 0.6072413206014358, "nb_suspects": 2, "nb_hors_abaque": 16, "etat": "CAPTEUR"}
+{"eolienne": "E10", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 0.7603743907841883, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E7", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 0.6089399410450844, "nb_suspects": 3, "nb_hors_abaque": 11, "etat": "CAPTEUR"}
+{"eolienne": "E9", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.0104499187451927, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 0.7079825344826999, "nb_suspects": 3, "nb_hors_abaque": 2, "etat": "CAPTEUR"}
+{"eolienne": "E12", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.0262461037640391, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 0.8697625781087209, "nb_suspects": 0, "nb_hors_abaque": 36, "etat": "HORS_ABAQUE"}
+{"eolienne": "E12", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 0.9277693362464124, "nb_suspects": 2, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E7", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 0.7278823507319103, "nb_suspects": 2, "nb_hors_abaque": 8, "etat": "CAPTEUR"}
+{"eolienne": "E14", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 0.933942180026135, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 0.5685742266965484, "nb_suspects": 1, "nb_hors_abaque": 5, "etat": "CAPTEUR"}
+{"eolienne": "E4", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 1.007771274413075, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E15", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 1.001231474682043, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.01080586259621, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 0.9025998741052386, "nb_suspects": 0, "nb_hors_abaque": 19, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 0.8539938434101346, "nb_suspects": 3, "nb_hors_abaque": 11, "etat": "CAPTEUR"}
+{"eolienne": "E1", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 1.0118208572159455, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 1.0041053144643526, "nb_suspects": 0, "nb_hors_abaque": 35, "etat": "HORS_ABAQUE"}
+{"eolienne": "E4", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 0.9979519345332506, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 0.9308185940191083, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 1.0095110453128182, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 0.7585741918031924, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E9", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 1.0088714461835218, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 1.0060396987496345, "nb_suspects": 0, "nb_hors_abaque": 16, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 0.8691601787576876, "nb_suspects": 0, "nb_hors_abaque": 21, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E14", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 0.9248533643895581, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 0.5544653583747893, "nb_suspects": 1, "nb_hors_abaque": 32, "etat": "HORS_ABAQUE"}
+{"eolienne": "E4", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 1.0142674588829832, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 62, "mediane_r": 1.0073027335220097, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.0107378826194853, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.0040260637719232, "nb_suspects": 0, "nb_hors_abaque": 32, "etat": "HORS_ABAQUE"}
+{"eolienne": "E1", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.0033021010697534, "nb_suspects": 0, "nb_hors_abaque": 41, "etat": "HORS_ABAQUE"}
+{"eolienne": "E2", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 0.945003240777454, "nb_suspects": 0, "nb_hors_abaque": 10, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 61, "mediane_r": 1.0264524851961938, "nb_suspects": 0, "nb_hors_abaque": 21, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 1.0224491359192083, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 1.0084984863012143, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 1.0229650653180984, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.0189639851420325, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 0.9303207518732247, "nb_suspects": 0, "nb_hors_abaque": 13, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 1.006513671787633, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 0.8851003016460743, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E8", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 1.0133574240066305, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 0.6394097029118432, "nb_suspects": 4, "nb_hors_abaque": 1, "etat": "CAPTEUR"}
+{"eolienne": "E5", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.0004888333210806, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 1.012251496496397, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 1.0128369301534215, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 0.5919183277487909, "nb_suspects": 4, "nb_hors_abaque": 2, "etat": "CAPTEUR"}
+{"eolienne": "E8", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.009788753928207, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 0.857495582675802, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E3", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 1.0302044508794435, "nb_suspects": 0, "nb_hors_abaque": 49, "etat": "HORS_ABAQUE"}
+{"eolienne": "E4", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 0.9972454936259757, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 0.9241795443827084, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.0141968056785786, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 0.8868901959620007, "nb_suspects": 1, "nb_hors_abaque": 5, "etat": "CAPTEUR"}
+{"eolienne": "E5", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 1.0061729879099781, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 0.6404320779985859, "nb_suspects": 1, "nb_hors_abaque": 37, "etat": "HORS_ABAQUE"}
+{"eolienne": "E11", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.0164493352073514, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 61, "mediane_r": 1.0108659881139868, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0159012318829033, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 0.8630461625481165, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E5", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.0151816980548818, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.0194409505485735, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 1.0059584773795667, "nb_suspects": 0, "nb_hors_abaque": 30, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.0147056018676643, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.0093998544922356, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.022177586914814, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 0.6278723180393517, "nb_suspects": 5, "nb_hors_abaque": 14, "etat": "CAPTEUR"}
+{"eolienne": "E9", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0050712059754658, "nb_suspects": 0, "nb_hors_abaque": 39, "etat": "HORS_ABAQUE"}
+{"eolienne": "E2", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 0.851005403460039, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E13", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.0062502740828583, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.0135133917448622, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 0.6200364014173402, "nb_suspects": 6, "nb_hors_abaque": 5, "etat": "CAPTEUR"}
+{"eolienne": "E11", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.010579756471981, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 0.9296215907436554, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 0.6511830785901929, "nb_suspects": 2, "nb_hors_abaque": 3, "etat": "CAPTEUR"}
+{"eolienne": "E11", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.0106571193214593, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.0034433874510178, "nb_suspects": 0, "nb_hors_abaque": 10, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 0.6353225703056483, "nb_suspects": 1, "nb_hors_abaque": 1, "etat": "CAPTEUR"}
+{"eolienne": "E11", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 1.011424876102938, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E9", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 1.0062582924936962, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 0.5758340238714641, "nb_suspects": 2, "nb_hors_abaque": 6, "etat": "CAPTEUR"}
+{"eolienne": "E1", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 1.0006391426935137, "nb_suspects": 0, "nb_hors_abaque": 23, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.003845701282819, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 1.0140983268290378, "nb_suspects": 0, "nb_hors_abaque": 43, "etat": "HORS_ABAQUE"}
+{"eolienne": "E7", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 0.9280577232251989, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.0154193618258873, "nb_suspects": 0, "nb_hors_abaque": 23, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 1.0194661207598283, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 1.007173268902721, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.0025583574101526, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 1.0133595009512555, "nb_suspects": 0, "nb_hors_abaque": 24, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 1.0033005997006905, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 0.8461035019976436, "nb_suspects": 0, "nb_hors_abaque": 29, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E8", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.0028280548495072, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.0121425601693288, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0085756069312508, "nb_suspects": 0, "nb_hors_abaque": 13, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 1.017503883749958, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.0025102692391945, "nb_suspects": 3, "nb_hors_abaque": 5, "etat": "CAPTEUR"}
+{"eolienne": "E2", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 0.8520989615368013, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E9", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.0075921935276826, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 24, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.0184925700491632, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 1.0041765858988567, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 1.0171820091777746, "nb_suspects": 0, "nb_hors_abaque": 23, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 0.9253464384191711, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.0172348007433876, "nb_suspects": 0, "nb_hors_abaque": 21, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 62, "mediane_r": 1.0075221681994213, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 1.0042142318845662, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.0060740595105109, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.0005349836352087, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.0168067227864812, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 1.0050404263260861, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E3", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.009022068849634, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.005104497023117, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 60, "mediane_r": 1.009039729460214, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.0152400512302955, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 2.0907093159368846, "nb_suspects": 29, "nb_hors_abaque": 4, "etat": "CAPTEUR"}
+{"eolienne": "E9", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 1.0087381498596097, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.0095080416448687, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 1.0134534147309509, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.015089620726243, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 1.004314814448058, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 0.8620364825466776, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E12", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 0.9395471148495229, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.003227045399242, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 0.9299039323810051, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.0173858569915273, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.0118825233100126, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.009092914158918, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.0294971031643807, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 0.747516175440946, "nb_suspects": 0, "nb_hors_abaque": 19, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E5", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.0104151420432887, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 1.0261608736972447, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.0227800504851332, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 0.7095902766971198, "nb_suspects": 3, "nb_hors_abaque": 13, "etat": "CAPTEUR"}
+{"eolienne": "E1", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 1.0106018913567576, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.0158908914229805, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.01232722810356, "nb_suspects": 0, "nb_hors_abaque": 20, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 1.004499069951018, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.0096322597405776, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 0.5405645303165411, "nb_suspects": 3, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E10", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 0.761337131981437, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E13", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 1.0088780972609632, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 0.8466277347982376, "nb_suspects": 3, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E10", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 0.7629281071742572, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E3", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 1.0006164581941837, "nb_suspects": 0, "nb_hors_abaque": 28, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0078669557630655, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 1.0070087526365181, "nb_suspects": 0, "nb_hors_abaque": 16, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.0131910121659613, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.0160585061943688, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.0044696182277764, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.0056984608597324, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.0114484676239428, "nb_suspects": 0, "nb_hors_abaque": 20, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.0008186632990617, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 0.7578784155874105, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E7", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 0.7129390871256588, "nb_suspects": 4, "nb_hors_abaque": 1, "etat": "CAPTEUR"}
+{"eolienne": "E1", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.010856983486511, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 1.0106895043264477, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 0.9995662140913407, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 0.9971542692979335, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 0.8839566747429016, "nb_suspects": 1, "nb_hors_abaque": 25, "etat": "CAPTEUR"}
+{"eolienne": "E2", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 0.852537693909085, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E3", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.0090519964585576, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.0118765080414358, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E12", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 0.8193781754999157, "nb_suspects": 1, "nb_hors_abaque": 12, "etat": "CAPTEUR"}
+{"eolienne": "E14", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 0.9299983740678744, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.0168491835294737, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 0.9963996393510921, "nb_suspects": 0, "nb_hors_abaque": 38, "etat": "HORS_ABAQUE"}
+{"eolienne": "E1", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 1.0238120066972694, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.014158396562367, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.0058315822729698, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.0061723368626758, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 1.0042326373822377, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 0.9299359812001862, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 1.0159792571733872, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.0047038291810555, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 61, "mediane_r": 0.8589974800146347, "nb_suspects": 0, "nb_hors_abaque": 19, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E10", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 0.7590717073877848, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E15", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.0112999618145055, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.0056365359767008, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.0043764099067103, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 1.0082262841985135, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 0.846301906701728, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E15", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.0034971755352304, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 0.9997870002956597, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.0100948116567776, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 0.690542530031259, "nb_suspects": 3, "nb_hors_abaque": 16, "etat": "CAPTEUR"}
+{"eolienne": "E6", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 2.837919002216694, "nb_suspects": 30, "nb_hors_abaque": 16, "etat": "CAPTEUR"}
+{"eolienne": "E10", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 0.7543569204034286, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E14", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 0.9328988364429118, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 1.005836353095884, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 0.9336365564551585, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 0.926609046419891, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 0.9229924048742464, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 1.0019401306309872, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E9", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.0143376489249958, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.0094526723306045, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 1.0089027589844741, "nb_suspects": 0, "nb_hors_abaque": 39, "etat": "HORS_ABAQUE"}
+{"eolienne": "E11", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 1.010666973645733, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 0.9286651332985789, "nb_suspects": 2, "nb_hors_abaque": 10, "etat": "CAPTEUR"}
+{"eolienne": "E14", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 0.935196012505802, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.0021047089845956, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.0168205809215283, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.012456762834572, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 0.7648714581746963, "nb_suspects": 0, "nb_hors_abaque": 17, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E5", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.0077416276753772, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 1.012061696346972, "nb_suspects": 1, "nb_hors_abaque": 26, "etat": "CAPTEUR"}
+{"eolienne": "E14", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 0.922018032547353, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 0.7491710728440902, "nb_suspects": 0, "nb_hors_abaque": 10, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E9", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.0069433634063374, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.0102506728196718, "nb_suspects": 0, "nb_hors_abaque": 13, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 1.0135863794381246, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 1.0106420554752515, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 0.7544935226111897, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E10", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 0.7658848748573093, "nb_suspects": 0, "nb_hors_abaque": 18, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E9", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.011325369564144, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 0.5978956138789423, "nb_suspects": 2, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E3", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.00051530500162, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.0096186694484506, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 1.0185811158453253, "nb_suspects": 0, "nb_hors_abaque": 15, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 0.8433838337847831, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E3", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0082515771199339, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 1.014544307501091, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.02402733286916, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 0.9996892052161019, "nb_suspects": 0, "nb_hors_abaque": 20, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 0.4881755228354718, "nb_suspects": 2, "nb_hors_abaque": 13, "etat": "CAPTEUR"}
+{"eolienne": "E9", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 1.004992281675509, "nb_suspects": 0, "nb_hors_abaque": 10, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 0.929499678190634, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 1.0047797033037893, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 1.0176296026559193, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 1.0264035950791344, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 0.937218540303111, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.0197780888283772, "nb_suspects": 0, "nb_hors_abaque": 10, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 1.0189621670214626, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.008646179479504, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 1.0021727285933633, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.0104289867036154, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.0106395212184476, "nb_suspects": 0, "nb_hors_abaque": 19, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 0.7541049722385704, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E11", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 60, "mediane_r": 1.0100577751597475, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 0.998414291595772, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 0.8600261284700166, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E3", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 1.0131189405318153, "nb_suspects": 0, "nb_hors_abaque": 24, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 0.9968029606077883, "nb_suspects": 0, "nb_hors_abaque": 13, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 1.0191463770211255, "nb_suspects": 0, "nb_hors_abaque": 24, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.0101924940961031, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 1.0015230760883365, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.0205158898907256, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 1.0094017092832233, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.010481946222771, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.0050162923751462, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.0203165729824566, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 1.0172212749200522, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 0.5707733338682199, "nb_suspects": 4, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E2", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 0.8590087991299924, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E2", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 0.8550981230767052, "nb_suspects": 0, "nb_hors_abaque": 22, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E14", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 0.9323214492541593, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 0.7665897891268304, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E8", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.0088998967106257, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 0.99264004083626, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 0.997386836419452, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 1.0171216114029429, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.0127048068440765, "nb_suspects": 0, "nb_hors_abaque": 15, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 0.7552491950486504, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E6", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.0103006241482626, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 1.009983690166612, "nb_suspects": 0, "nb_hors_abaque": 23, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 0.9382650759019555, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 0.7532188645235901, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E9", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.010520341468589, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 0.9912465527523514, "nb_suspects": 0, "nb_hors_abaque": 43, "etat": "HORS_ABAQUE"}
+{"eolienne": "E12", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 0.8622905468839377, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E13", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 1.0090284970823946, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 0.9982097691307588, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E4", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.0116929100837984, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.0140117958387853, "nb_suspects": 0, "nb_hors_abaque": 18, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 1.0076018758530108, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.0152738781508273, "nb_suspects": 0, "nb_hors_abaque": 13, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 1.0133011795378528, "nb_suspects": 0, "nb_hors_abaque": 24, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 1.0051398827057445, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.0203634370143484, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.0128214344249522, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 1.0164085316504499, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.0065798750495285, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 0.7416490867319079, "nb_suspects": 6, "nb_hors_abaque": 2, "etat": "CAPTEUR"}
+{"eolienne": "E3", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 1.0144413029936412, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.0033871941282912, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 0.8594556589574198, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E3", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 1.0153774560017048, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 0.9275428389387952, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.0124149649654783, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 1.0093504882167386, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 0.832486545384641, "nb_suspects": 0, "nb_hors_abaque": 18, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E1", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.0113771487383592, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 0.8760866596164008, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E15", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 1.0166647492164143, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 0.8761281779582187, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E10", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 0.7598909729737213, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E14", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 0.9320954038669712, "nb_suspects": 0, "nb_hors_abaque": 11, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.0132725681638568, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 0.863502243999875, "nb_suspects": 1, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E15", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 1.0004200301902657, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.0076598338857736, "nb_suspects": 0, "nb_hors_abaque": 17, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 1.0126733925618832, "nb_suspects": 0, "nb_hors_abaque": 16, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 60, "mediane_r": 0.9986765658917226, "nb_suspects": 0, "nb_hors_abaque": 19, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 1.0156065361154765, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 0.646628605271959, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E8", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 1.0054706860929963, "nb_suspects": 0, "nb_hors_abaque": 46, "etat": "HORS_ABAQUE"}
+{"eolienne": "E11", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.0049856567472508, "nb_suspects": 0, "nb_hors_abaque": 19, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 61, "mediane_r": 0.7011858406778735, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E2", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 0.8538300769396555, "nb_suspects": 0, "nb_hors_abaque": 29, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E1", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 1.0086598123475854, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.0073732256055112, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 0.8539818038770959, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E12", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 0.7657954359259991, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E9", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 1.0039003882322648, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 0.9370212036305857, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 1.0057765566441876, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 0.8581004625944556, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E2", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 1.0258325694730785, "nb_suspects": 0, "nb_hors_abaque": 51, "etat": "HORS_ABAQUE"}
+{"eolienne": "E11", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 1.0099146700011012, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 0.7577272679226706, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E12", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 0.9005527562299165, "nb_suspects": 0, "nb_hors_abaque": 13, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 0.8490638483577164, "nb_suspects": 0, "nb_hors_abaque": 50, "etat": "HORS_ABAQUE"}
+{"eolienne": "E7", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 0.68011764404738, "nb_suspects": 4, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E1", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 1.000099189240658, "nb_suspects": 0, "nb_hors_abaque": 39, "etat": "HORS_ABAQUE"}
+{"eolienne": "E6", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 1.0173979008761642, "nb_suspects": 0, "nb_hors_abaque": 37, "etat": "HORS_ABAQUE"}
+{"eolienne": "E11", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 1.016456913056256, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 1.006515939631795, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 0.7628080212853466, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E10", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 0.7631752954571437, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E10", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 0.7591175068372962, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E12", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 0.8929260430943474, "nb_suspects": 0, "nb_hors_abaque": 41, "etat": "HORS_ABAQUE"}
+{"eolienne": "E15", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 1.0048227617096919, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 0.9331154063841812, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 0.5527831727085775, "nb_suspects": 3, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E9", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0173368468867112, "nb_suspects": 0, "nb_hors_abaque": 39, "etat": "HORS_ABAQUE"}
+{"eolienne": "E5", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.0128315701268442, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:48:00.000Z", "fin": "2026-11-09T08:49:00.000Z", "nb_mesures": 60, "mediane_r": 0.7649995416735493, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E12", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 0.9235627032669993, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.005113794294832, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 1.0095134666870813, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 0.9202846762478867, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.0104991382053978, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 0.7576537645827853, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E14", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 0.9258225549897776, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 0.5637891395320029, "nb_suspects": 5, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E11", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.0147897704861542, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 0.8715580243255378, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E13", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 62, "mediane_r": 1.002354449989608, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 0.8691653163288108, "nb_suspects": 0, "nb_hors_abaque": 22, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E11", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.0177860444560691, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 1.008332202749495, "nb_suspects": 0, "nb_hors_abaque": 31, "etat": "HORS_ABAQUE"}
+{"eolienne": "E1", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 0.9982655940764046, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E4", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 1.0043768229121313, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 1.0180002599629439, "nb_suspects": 0, "nb_hors_abaque": 13, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.0135082945811742, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 1.0106950279165163, "nb_suspects": 0, "nb_hors_abaque": 24, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 1.0094448756248324, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 0.8549870637673317, "nb_suspects": 0, "nb_hors_abaque": 28, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E10", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 0.7596157764254419, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E1", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 1.0110299955731143, "nb_suspects": 0, "nb_hors_abaque": 21, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:29:00.000Z", "fin": "2026-11-09T08:30:00.000Z", "nb_mesures": 33, "mediane_r": 1.0229122110125988, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 0.8944492480351504, "nb_suspects": 1, "nb_hors_abaque": 14, "etat": "CAPTEUR"}
+{"eolienne": "E2", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 0.8621809801694066, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E4", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.0133680403341312, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 0.9248183915478109, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.0036832789453236, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 0.8541077046772269, "nb_suspects": 0, "nb_hors_abaque": 24, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E9", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.0125580047960978, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 1.017051235996121, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 0.8599258254539169, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E10", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0159293577929278, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 1.0095503469918907, "nb_suspects": 0, "nb_hors_abaque": 22, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 61, "mediane_r": 0.7556207251047875, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E11", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 1.0071118867479336, "nb_suspects": 0, "nb_hors_abaque": 12, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 0.8582959945757814, "nb_suspects": 0, "nb_hors_abaque": 10, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E15", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:34:00.000Z", "fin": "2026-11-09T08:35:00.000Z", "nb_mesures": 60, "mediane_r": 1.0138073360995177, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 1.0154041827393694, "nb_suspects": 0, "nb_hors_abaque": 51, "etat": "HORS_ABAQUE"}
+{"eolienne": "E13", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 1.011654070009425, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 1.0137731700645296, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.0095466138658187, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 2.5466841414000254, "nb_suspects": 12, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E7", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.0130047794484591, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:49:00.000Z", "fin": "2026-11-09T08:50:00.000Z", "nb_mesures": 60, "mediane_r": 0.8277961672657477, "nb_suspects": 1, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E13", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.012606387570769, "nb_suspects": 0, "nb_hors_abaque": 24, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 0.9917441526290237, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 1.0058361885321783, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.0081568174033817, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.0046461563542408, "nb_suspects": 0, "nb_hors_abaque": 20, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 1.0209638081567325, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 1.001786782696944, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.011077986554385, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:27:00.000Z", "fin": "2026-11-09T08:28:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:36:00.000Z", "fin": "2026-11-09T08:37:00.000Z", "nb_mesures": 60, "mediane_r": 0.8594525108257253, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E11", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 1.0114783912228138, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:33:00.000Z", "fin": "2026-11-09T08:34:00.000Z", "nb_mesures": 60, "mediane_r": 1.012301524275705, "nb_suspects": 0, "nb_hors_abaque": 27, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 1.0155159321779574, "nb_suspects": 0, "nb_hors_abaque": 42, "etat": "HORS_ABAQUE"}
+{"eolienne": "E6", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 1.0060731949328992, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 1.010384240464986, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:55:00.000Z", "fin": "2026-11-09T08:56:00.000Z", "nb_mesures": 60, "mediane_r": 1.0065257076181207, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 1.0086571682447203, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.0138468150980007, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 24, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 0.7243583000406183, "nb_suspects": 3, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E1", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.0108100787162329, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 0.8588671773842136, "nb_suspects": 0, "nb_hors_abaque": 46, "etat": "HORS_ABAQUE"}
+{"eolienne": "E5", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 1.0096156774550626, "nb_suspects": 0, "nb_hors_abaque": 37, "etat": "HORS_ABAQUE"}
+{"eolienne": "E1", "debut": "2026-11-09T08:39:00.000Z", "fin": "2026-11-09T08:40:00.000Z", "nb_mesures": 60, "mediane_r": 1.016537308330613, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 0.8570837606500711, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E6", "debut": "2026-11-09T08:54:00.000Z", "fin": "2026-11-09T08:55:00.000Z", "nb_mesures": 60, "mediane_r": 1.0067003053177637, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 1.0072173564326399, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 1.0105643921208134, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 1.0082957079593073, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0098873402812358, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:43:00.000Z", "fin": "2026-11-09T08:44:00.000Z", "nb_mesures": 60, "mediane_r": 1.020171506091149, "nb_suspects": 0, "nb_hors_abaque": 37, "etat": "HORS_ABAQUE"}
+{"eolienne": "E5", "debut": "2026-11-09T08:31:00.000Z", "fin": "2026-11-09T08:32:00.000Z", "nb_mesures": 60, "mediane_r": 0.9989270097803781, "nb_suspects": 0, "nb_hors_abaque": 46, "etat": "HORS_ABAQUE"}
+{"eolienne": "E1", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 1.0126970783216045, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 1.0077371805917834, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:57:00.000Z", "fin": "2026-11-09T08:58:00.000Z", "nb_mesures": 60, "mediane_r": 1.0083394956635159, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 1.000086746013248, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:53:00.000Z", "fin": "2026-11-09T08:54:00.000Z", "nb_mesures": 60, "mediane_r": 1.0057218251953643, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.0081319385387406, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 0.9988993820350783, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.0087573930167602, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:30:00.000Z", "fin": "2026-11-09T08:31:00.000Z", "nb_mesures": 62, "mediane_r": 0.9190875577005769, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 0.7255022006825231, "nb_suspects": 0, "nb_hors_abaque": 45, "etat": "HORS_ABAQUE"}
+{"eolienne": "E11", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.0074086544395218, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 1.0136047344219419, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:46:00.000Z", "fin": "2026-11-09T08:47:00.000Z", "nb_mesures": 60, "mediane_r": 0.6858583503056965, "nb_suspects": 5, "nb_hors_abaque": 4, "etat": "CAPTEUR"}
+{"eolienne": "E12", "debut": "2026-11-09T08:38:00.000Z", "fin": "2026-11-09T08:39:00.000Z", "nb_mesures": 60, "mediane_r": 0.8772070922524373, "nb_suspects": 1, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E8", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.082010775566154, "nb_suspects": 29, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E5", "debut": "2026-11-09T08:41:00.000Z", "fin": "2026-11-09T08:42:00.000Z", "nb_mesures": 60, "mediane_r": 1.012206652573854, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.0056591944837385, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 1.00933753687747, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:56:00.000Z", "fin": "2026-11-09T08:57:00.000Z", "nb_mesures": 60, "mediane_r": 0.8875210650580894, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E7", "debut": "2026-11-09T08:28:00.000Z", "fin": "2026-11-09T08:29:00.000Z", "nb_mesures": 23, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T08:26:00.000Z", "fin": "2026-11-09T08:27:00.000Z", "nb_mesures": 60, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:47:00.000Z", "fin": "2026-11-09T08:48:00.000Z", "nb_mesures": 60, "mediane_r": 1.0130482340467892, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 0.9940570222597076, "nb_suspects": 0, "nb_hors_abaque": 34, "etat": "HORS_ABAQUE"}
+{"eolienne": "E10", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 0.7609703248582891, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E8", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 0.9991935399090177, "nb_suspects": 0, "nb_hors_abaque": 34, "etat": "HORS_ABAQUE"}
+{"eolienne": "E10", "debut": "2026-11-09T08:59:00.000Z", "fin": "2026-11-09T09:00:00.000Z", "nb_mesures": 60, "mediane_r": 0.7538104297242317, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E15", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 1.0026562951809816, "nb_suspects": 0, "nb_hors_abaque": 26, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T08:40:00.000Z", "fin": "2026-11-09T08:41:00.000Z", "nb_mesures": 60, "mediane_r": 1.0138759443766958, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T08:45:00.000Z", "fin": "2026-11-09T08:46:00.000Z", "nb_mesures": 60, "mediane_r": 1.0189916735068594, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T09:00:00.000Z", "fin": "2026-11-09T09:01:00.000Z", "nb_mesures": 60, "mediane_r": 0.7519443619477764, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E10", "debut": "2026-11-09T08:58:00.000Z", "fin": "2026-11-09T08:59:00.000Z", "nb_mesures": 60, "mediane_r": 0.7573575087311349, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E5", "debut": "2026-11-09T08:35:00.000Z", "fin": "2026-11-09T08:36:00.000Z", "nb_mesures": 60, "mediane_r": 1.0141153030837056, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T08:37:00.000Z", "fin": "2026-11-09T08:38:00.000Z", "nb_mesures": 60, "mediane_r": 0.8403042581529638, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E5", "debut": "2026-11-09T08:42:00.000Z", "fin": "2026-11-09T08:43:00.000Z", "nb_mesures": 60, "mediane_r": 1.0030916643120409, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 0.9354478044054219, "nb_suspects": 0, "nb_hors_abaque": 22, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T08:50:00.000Z", "fin": "2026-11-09T08:51:00.000Z", "nb_mesures": 60, "mediane_r": 1.0137797262311508, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:51:00.000Z", "fin": "2026-11-09T08:52:00.000Z", "nb_mesures": 60, "mediane_r": 1.018973741523594, "nb_suspects": 0, "nb_hors_abaque": 25, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T08:20:00.000Z", "fin": "2026-11-09T08:21:00.000Z", "nb_mesures": 28, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T08:44:00.000Z", "fin": "2026-11-09T08:45:00.000Z", "nb_mesures": 60, "mediane_r": 1.009223235851967, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T08:32:00.000Z", "fin": "2026-11-09T08:33:00.000Z", "nb_mesures": 60, "mediane_r": 1.0080559038890384, "nb_suspects": 0, "nb_hors_abaque": 15, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T08:52:00.000Z", "fin": "2026-11-09T08:53:00.000Z", "nb_mesures": 60, "mediane_r": 1.0132664151656101, "nb_suspects": 0, "nb_hors_abaque": 17, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T08:25:00.000Z", "fin": "2026-11-09T08:26:00.000Z", "nb_mesures": 37, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 0.5419091561087228, "nb_suspects": 2, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E1", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 1.0133660337731756, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 1.0084710317562702, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 0.759257621915809, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E15", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 1.0109333050092089, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 0.8220579296833559, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E13", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 1.0086695824832415, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 0.9950430170205529, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 0.8578367811859378, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E14", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 0.9294939620755824, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 1.0052696832218224, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 1.0080945526233114, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 1.0091027637073615, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 1.012592587468407, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T09:01:00.000Z", "fin": "2026-11-09T09:02:00.000Z", "nb_mesures": 60, "mediane_r": 1.0165891654913926, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 0.8559074315427178, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E11", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 1.0080525229998676, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 0.9977889882680426, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 0.8261766177233845, "nb_suspects": 1, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E10", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 0.7555600352120116, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E1", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 1.0150538549033417, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 1.0062458397625884, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 0.6059703703840944, "nb_suspects": 4, "nb_hors_abaque": 14, "etat": "CAPTEUR"}
+{"eolienne": "E4", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 1.0101442410222587, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 1.0186414014613159, "nb_suspects": 0, "nb_hors_abaque": 15, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 1.015901033215857, "nb_suspects": 0, "nb_hors_abaque": 15, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 1.0013194703664348, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 0.9299691083100312, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 1.0050677013317995, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T09:02:00.000Z", "fin": "2026-11-09T09:03:00.000Z", "nb_mesures": 60, "mediane_r": 1.0125230225001607, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 0.9981535784569221, "nb_suspects": 0, "nb_hors_abaque": 14, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 0.7207961846308423, "nb_suspects": 3, "nb_hors_abaque": 16, "etat": "CAPTEUR"}
+{"eolienne": "E11", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 1.0073862089772034, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 0.8532305995230273, "nb_suspects": 0, "nb_hors_abaque": 18, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E15", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 1.0090891643629007, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 1.008689029529834, "nb_suspects": 0, "nb_hors_abaque": 22, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 1.0236482236299387, "nb_suspects": 0, "nb_hors_abaque": 18, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 1.0015500503994166, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 1.0092212670581135, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 1.0098422177375765, "nb_suspects": 0, "nb_hors_abaque": 22, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 0.924275131338701, "nb_suspects": 1, "nb_hors_abaque": 1, "etat": "CAPTEUR"}
+{"eolienne": "E10", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 0.7513516465994136, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E1", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 1.024153684599625, "nb_suspects": 0, "nb_hors_abaque": 21, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 0.9316782741155342, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T09:03:00.000Z", "fin": "2026-11-09T09:04:00.000Z", "nb_mesures": 60, "mediane_r": 1.010600694530166, "nb_suspects": 0, "nb_hors_abaque": 18, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 1.012065379749594, "nb_suspects": 0, "nb_hors_abaque": 23, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "HORS_ABAQUE"}
+{"eolienne": "E6", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 1.0056345811340341, "nb_suspects": 0, "nb_hors_abaque": 19, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 0.9668585131336637, "nb_suspects": 1, "nb_hors_abaque": 3, "etat": "CAPTEUR"}
+{"eolienne": "E2", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 0.8618088883840279, "nb_suspects": 0, "nb_hors_abaque": 5, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E5", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 1.043996736226513, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 1.0040161619826922, "nb_suspects": 0, "nb_hors_abaque": 41, "etat": "HORS_ABAQUE"}
+{"eolienne": "E1", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 1.018118932922858, "nb_suspects": 0, "nb_hors_abaque": 6, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 17, "mediane_r": 1.0032429323436962, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 16, "mediane_r": 0.9964398421093508, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 1.0013836695985145, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 0.9313362874486552, "nb_suspects": 0, "nb_hors_abaque": 8, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 1.7045656450186557, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SUR_PRODUCTION"}
+{"eolienne": "EX5", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 1.043996736226513, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 1.0178467214020128, "nb_suspects": 0, "nb_hors_abaque": 7, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 1.0030155053265362, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 0.9647512977574275, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 25, "mediane_r": 0.5046437538649412, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E2", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 2, "mediane_r": 0.821967292140733, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E10", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 0.7846784729984755, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E1", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 0.9983277051124697, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 1.0131026664403127, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E1", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 17, "mediane_r": 1.016659327274754, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "HORS_ABAQUE"}
+{"eolienne": "E9", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 1.006670455972617, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E10", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 17, "mediane_r": 0.7551876863764714, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E3", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 17, "mediane_r": 1.0144804654897879, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 17, "mediane_r": 0.9999714293420092, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "EX2", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 2, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 1.016764340640168, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E6", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 0.9955587101770517, "nb_suspects": 0, "nb_hors_abaque": 21, "etat": "OK"}
+{"eolienne": "E7", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 0.6582444992043395, "nb_suspects": 4, "nb_hors_abaque": 20, "etat": "CAPTEUR"}
+{"eolienne": "E12", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 0.8650905207415631, "nb_suspects": 1, "nb_hors_abaque": 0, "etat": "CAPTEUR"}
+{"eolienne": "E10", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 0.7635829405107026, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E12", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 16, "mediane_r": 0.8377282202063345, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E6", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 0.9846824593949336, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E9", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 17, "mediane_r": 1.0179965349210054, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E15", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 1.0108263832937074, "nb_suspects": 0, "nb_hors_abaque": 9, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 25, "mediane_r": 1.0278849629810975, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 1.0209404952260244, "nb_suspects": 0, "nb_hors_abaque": 41, "etat": "HORS_ABAQUE"}
+{"eolienne": "E10", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 0.7610423563652788, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E4", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 1.0575805332735702, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 0.9953513944443737, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "EX4", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "HORS_ABAQUE"}
+{"eolienne": "E15", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 23, "mediane_r": 0.9999197214513827, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 1.0276415192556023, "nb_suspects": 0, "nb_hors_abaque": 21, "etat": "OK"}
+{"eolienne": "E14", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 23, "mediane_r": 0.9276484904502525, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
+{"eolienne": "E8", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 1.0081695109238478, "nb_suspects": 0, "nb_hors_abaque": 18, "etat": "OK"}
+{"eolienne": "E5", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 1.0041518193799586, "nb_suspects": 0, "nb_hors_abaque": 20, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 17, "mediane_r": 0.8557374571306867, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E4", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 1.0140759153012218, "nb_suspects": 0, "nb_hors_abaque": 4, "etat": "OK"}
+{"eolienne": "E3", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 1.010283421365212, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E2", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 0.8613819323644356, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "SOUS_PRODUCTION"}
+{"eolienne": "E14", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 0.9201490439785278, "nb_suspects": 0, "nb_hors_abaque": 44, "etat": "HORS_ABAQUE"}
+{"eolienne": "E7", "debut": "2026-11-09T09:04:00.000Z", "fin": "2026-11-09T09:05:00.000Z", "nb_mesures": 60, "mediane_r": 0.7293632471571115, "nb_suspects": 2, "nb_hors_abaque": 19, "etat": "CAPTEUR"}
+{"eolienne": "EX3", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "nb_suspects": 0, "nb_hors_abaque": 1, "etat": "HORS_ABAQUE"}
+{"eolienne": "E6", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 25, "mediane_r": 3.068072726510412, "nb_suspects": 20, "nb_hors_abaque": 3, "etat": "CAPTEUR"}
+{"eolienne": "E1", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 2, "mediane_r": 0.9385983870143825, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E4", "debut": "2026-11-09T09:06:00.000Z", "fin": "2026-11-09T09:07:00.000Z", "nb_mesures": 25, "mediane_r": 0.9917471129080988, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 1.017606727465663, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E12", "debut": "2026-11-09T09:08:00.000Z", "fin": "2026-11-09T09:09:00.000Z", "nb_mesures": 1, "mediane_r": 1.089935479378979, "nb_suspects": 0, "nb_hors_abaque": 0, "etat": "OK"}
+{"eolienne": "E13", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 1.0192778448543485, "nb_suspects": 0, "nb_hors_abaque": 3, "etat": "OK"}
+{"eolienne": "E11", "debut": "2026-11-09T09:05:00.000Z", "fin": "2026-11-09T09:06:00.000Z", "nb_mesures": 60, "mediane_r": 1.003463801519154, "nb_suspects": 0, "nb_hors_abaque": 2, "etat": "OK"}
