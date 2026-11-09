@@ -156,7 +156,7 @@ def vue_overview(s, resumes, phi):
     gauche, droite = st.columns([1, 2.3], gap="medium")
     brut = s["brut"].get(principale, [])
     with gauche:
-        html(C.carte_eolienne(resumes[principale], brut[-1] if brut else None, principale in D.SIMULEES, mode))
+        html(C.carte_eolienne(resumes[principale], brut[-1] if brut else None, principale in D.SIMULEES))
     with droite:
         html(C.section(f"Performance en temps réel — {principale} · écart à l'abaque Φ") + C.legende_r(ymax))
         afficher(G.graphique_r(D.serie_r(s["pi"].get(principale, []), phi, minutes), ymax, hauteur=300))

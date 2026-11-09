@@ -96,60 +96,30 @@ def kpi(libelle, valeur, sous_titre, couleur, unite=""):
             f'<div class="val">{_e(valeur)}{unite}</div><div class="sous">{_e(sous_titre)}</div></div>')
 
 
-# Décor de l'illustration selon le mode : ciel, astre, collines, mât, pales
-_DECOR = {
-    "jour": {"ciel": ("#6FB7E9", "#DDF0FB"), "astre": "#FFD36B", "collines": ("#8DBF7A", "#5E9A57"),
-             "mat": ("#C3CED6", "#FFFFFF"), "pale": ("#D5DEE5", "#FFFFFF")},
-    "nuit": {"ciel": ("#06142A", "#163C61"), "astre": "#F3F0DC", "collines": ("#123430", "#0B2423"),
-             "mat": ("#536677", "#A8B8C5"), "pale": ("#8EA1B0", "#D3DEE6")},
-}
-_ETOILES = ((18, 22, 1.1), (42, 48, .8), (64, 16, 1), (126, 20, .9), (182, 70, .8), (24, 92, .7), (150, 96, .9),
-            (88, 34, .7), (176, 18, 1), (56, 78, .8))
-
-
-def illustration_eolienne(omega, mode="nuit"):
-    """Éolienne dans son paysage (jour ou nuit) ; le rotor tourne si la vitesse de rotation mesurée ω est non nulle.
+def illustration_eolienne(omega):
+    """Éolienne vectorielle ; le rotor tourne si la vitesse de rotation mesurée ω est non nulle.
 
     La vitesse d'animation est indicative (période quantifiée pour rester lisible), la valeur réelle est affichée à côté.
-    De nuit, le feu de balisage rouge du haut de la nacelle clignote, comme sur une vraie éolienne.
     """
-    d = _DECOR[mode]
     if omega and omega > 0:
         periode = max(1, min(8, round(40 / omega)))
         rotor = f'<g class="rotor" style="animation-duration:{periode}s">'
     else:
         rotor = '<g class="rotor arret">'
-    pales = "".join(f'<path transform="rotate({a} 100 92)" d="M100 92 C96 70 97 40 100 10 C102 40 104 70 100 92Z" '
-                    f'fill="url(#tdb-pale)"/>' for a in (15, 135, 255))
-    if mode == "nuit":
-        ambiance = ("".join(f'<circle cx="{x}" cy="{y}" r="{r}" fill="#FFFFFF" opacity=".8"/>' for x, y, r in _ETOILES)
-                    + f'<circle cx="160" cy="40" r="20" fill="{d["astre"]}" opacity=".12"/>'
-                    f'<circle cx="160" cy="40" r="11" fill="{d["astre"]}"/>')
-        feu = '<circle class="tdb-feu" cx="112" cy="84" r="2.2" fill="#FF3B30"/>'
-    else:
-        ambiance = (f'<circle cx="160" cy="40" r="24" fill="{d["astre"]}" opacity=".25"/>'
-                    f'<circle cx="160" cy="40" r="13" fill="{d["astre"]}"/>'
-                    '<g fill="#FFFFFF" opacity=".85"><ellipse cx="44" cy="44" rx="20" ry="7"/>'
-                    '<ellipse cx="58" cy="39" rx="13" ry="8"/><ellipse cx="128" cy="74" rx="16" ry="5"/></g>')
-        feu = ""
+    pales = "".join(f'<path transform="rotate({a} 100 92)" d="M100 92 C95 66 96 36 100 8 C104 36 105 66 100 92Z" '
+                    f'fill="url(#pale)"/>' for a in (0, 120, 240))
     return ('<svg class="tdb-eol" viewBox="0 0 200 260" xmlns="http://www.w3.org/2000/svg"><defs>'
-            f'<linearGradient id="tdb-ciel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{d["ciel"][0]}"/>'
-            f'<stop offset="1" stop-color="{d["ciel"][1]}"/></linearGradient>'
-            f'<linearGradient id="tdb-mat" x1="0" x2="1"><stop offset="0" stop-color="{d["mat"][0]}"/>'
-            f'<stop offset="1" stop-color="{d["mat"][1]}"/></linearGradient>'
-            f'<linearGradient id="tdb-pale" x1="0" x2="1"><stop offset="0" stop-color="{d["pale"][0]}"/>'
-            f'<stop offset="1" stop-color="{d["pale"][1]}"/></linearGradient></defs>'
-            '<rect width="200" height="260" fill="url(#tdb-ciel)"/>'
-            f'{ambiance}'
-            f'<path d="M0 214 C40 196 80 200 120 210 C150 218 175 206 200 200 L200 260 L0 260Z" fill="{d["collines"][0]}"/>'
-            '<path d="M97 96 L103 96 L107 236 L93 236Z" fill="url(#tdb-mat)"/>'
-            f'<path d="M0 236 C50 222 110 226 200 232 L200 260 L0 260Z" fill="{d["collines"][1]}"/>'
-            '<path d="M96 86 L120 85 Q126 89 120 95 L96 97Z" fill="url(#tdb-mat)"/>'
-            f'{feu}{rotor}{pales}<circle cx="100" cy="92" r="6.5" fill="{d["mat"][1]}" stroke="{d["mat"][0]}" '
-            'stroke-width="1.5"/><circle cx="100" cy="92" r="2.2" fill="#21B6A8"/></g></svg>')
+            '<linearGradient id="mat" x1="0" x2="1"><stop offset="0" stop-color="#8FA6B6"/><stop offset="1" stop-color="#E8EEF3"/></linearGradient>'
+            '<linearGradient id="pale" x1="0" x2="1"><stop offset="0" stop-color="#CFDCE5"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>'
+            '<radialGradient id="sol" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#21B6A8" stop-opacity=".45"/>'
+            '<stop offset="1" stop-color="#21B6A8" stop-opacity="0"/></radialGradient></defs>'
+            '<ellipse cx="100" cy="250" rx="70" ry="8" fill="url(#sol)"/>'
+            '<path d="M96 96 L104 96 L110 250 L90 250Z" fill="url(#mat)"/>'
+            '<rect x="88" y="84" width="34" height="15" rx="6" fill="#DDE6EC"/>'
+            f'{rotor}{pales}<circle cx="100" cy="92" r="7" fill="#21B6A8" stroke="#E8EEF3" stroke-width="2"/></g></svg>')
 
 
-def carte_eolienne(resume, derniere_mesure, simulee, mode="nuit"):
+def carte_eolienne(resume, derniere_mesure, simulee):
     """Grande carte de l'éolienne choisie : état (parties 13/16), r, compteurs et grandeurs techniques mesurées."""
     m = derniere_mesure or {}
     omega = m.get("rotation_rads")
@@ -168,7 +138,7 @@ def carte_eolienne(resume, derniere_mesure, simulee, mode="nuit"):
                     f'{duree(resume["age_s"])} : état figé à la dernière mesure reçue.</div>')
     return (f'<div class="tdb-carte"><div style="display:flex;justify-content:space-between;align-items:center">'
             f'<div class="tdb-nom">{_e(resume["eolienne"])}</div>{badge(resume["etat"])}</div>{mention}'
-            f'{illustration_eolienne(omega, mode)}<div class="tdb-mini" style="text-align:center;margin-top:8px">'
+            f'{illustration_eolienne(omega)}<div class="tdb-mini" style="text-align:center">'
             f'{_e(theme.REGLE_ETAT[resume["etat"]])}</div><div class="tdb-grille">{grille}</div></div>')
 
 

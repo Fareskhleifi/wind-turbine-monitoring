@@ -75,13 +75,10 @@ h1, h2, h3, h4 { color: var(--texte); letter-spacing: .01em; }
 .tdb-grille .lib { color:var(--texte2); font-size:.72rem; text-transform:uppercase; letter-spacing:.06em; }
 .tdb-grille .val { color:var(--texte); font-size:1.02rem; font-weight:700; font-variant-numeric: tabular-nums; }
 .tdb-nom { font-size:1.7rem; font-weight:800; color:var(--texte); }
-.tdb-eol { width:100%; max-height:240px; border-radius:12px; margin-top:10px; display:block; }
+.tdb-eol { width:100%; max-height:230px; }
 .tdb-eol .rotor { transform-box: view-box; transform-origin: 100px 92px; animation: tdb-rot linear infinite; }
 .tdb-eol .rotor.arret { animation: none; }
-@keyframes tdb-rot { to { transform: rotate(360deg); } }
-.tdb-feu { animation: tdb-feu 1.6s steps(1) infinite; }
-@keyframes tdb-feu { 50% { opacity: .12; } }
-table.tdb-table { width:100%; border-collapse:separate; border-spacing:0 6px; font-size:.86rem; }
+@keyframes tdb-rot { to { transform: rotate(360deg); } }table.tdb-table { width:100%; border-collapse:separate; border-spacing:0 6px; font-size:.86rem; }
 table.tdb-table th { color:var(--texte2); font-weight:600; text-transform:uppercase; font-size:.7rem; letter-spacing:.07em;
   text-align:left; padding:4px 12px; border:none !important; background:transparent !important; white-space:nowrap; }
 table.tdb-table td { background:var(--carte) !important; color:var(--texte); padding:8px 12px; white-space:nowrap;

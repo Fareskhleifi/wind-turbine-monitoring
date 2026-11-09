@@ -18,7 +18,7 @@ l'historique des alertes ; le simulateur 18 alimente EX1..EX5.
 
 | Vue | Contenu |
 |---|---|
-| **Overview** | production du parc (puissance instantanée, vent moyen, éoliennes en production, énergie produite sur ≈ 15 min), santé (éoliennes actives, OK, sous-production, défaut capteur, mesures r > 2), carte de l'éolienne sélectionnée (paysage jour/nuit, rotor animé selon ω réel, feu de balisage la nuit), r(t), grandeurs physiques, anomalies actives, médiane de r par éolienne |
+| **Overview** | production du parc (puissance instantanée, vent moyen, éoliennes en production, énergie produite sur ≈ 15 min), santé (éoliennes actives, OK, sous-production, défaut capteur, mesures r > 2), carte de l'éolienne sélectionnée (rotor animé selon ω réel), r(t), grandeurs physiques, anomalies actives, médiane de r par éolienne |
 | **Wind Farm** | médiane actuelle de r, écarts les plus importants, tableau des 15 éoliennes, comparaison des médianes glissantes |
 | **Real-time Monitoring** | graphique de la partie 15 (r par mesure, médiane glissante sur 60, marge ±10 %, valeurs écrêtées, zoom horizontal), grandeurs physiques sur 15 min, jauge C_p bornée par la limite de Betz |
 | **Alerts & Anomalies** | répartition par état, cartes des anomalies avec la règle appliquée, historique de `ferme.alertes` |

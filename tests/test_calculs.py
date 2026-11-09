@@ -130,8 +130,7 @@ def test_tableau_de_bord_fidele_aux_calculs():
     assert (p["actives"], p["en_production"], p["puissance_kw"], p["vent_ms"]) == (2, 2, 2.0, 7.0)
     assert abs(p["energie_kwh"] - (2 * 1000 * 10 + 5000) / 3.6e6) < 1e-12        # Δt du point isolé : 1 s
     for mode in ("nuit", "jour"):
-        assert "var(--texte)" in theme.css(mode) and "tdb-feu" in composants.illustration_eolienne(10, "nuit")
-    assert "tdb-feu" not in composants.illustration_eolienne(10, "jour")
+        assert "var(--texte)" in theme.css(mode)
 
 
 if __name__ == "__main__":
